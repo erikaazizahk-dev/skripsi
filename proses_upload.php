@@ -1,0 +1,31 @@
+<?php
+// PANGGIL KONEKSI
+include_once "koneksi.php";
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['csv_file'])) {
+    $file = $_FILES['csv_file']['tmp_name'];
+    $handle = fopen($file, 'r');
+
+    $row = 0;
+    while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+        if ($row === 0) {
+            $row++; // lewati header CSV
+            continue;
+        }
+
+        $nama      = mysqli_real_escape_string($conn, $data[0]);
+        $alamat    = mysqli_real_escape_string($conn, $data[1]);
+        $subsektor = mysqli_real_escape_string($conn, $data[2]);
+        $lat       = floatval($data[3]);
+        $lng       = floatval($data[4]);
+
+        $query = "INSERT INTO industri_kreatif (nama_industri, alamat_industri, subsektor, latitude, longitude)
+                  VALUES ('$nama', '$alamat', '$subsektor', '$lat', '$lng')";
+        mysqli_query($conn, $query);
+    }
+
+    fclose($handle);
+    echo "<script>alert('Data berhasil diupload!'); window.location.href='peta.php';</script>";
+} else {
+    echo "Upload gagal.";
+}

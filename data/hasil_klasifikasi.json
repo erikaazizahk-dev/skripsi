@@ -1,0 +1,4382 @@
+[
+    {
+        "desa": "JANGKARAN",
+        "luas": 1955,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SINDUTAN",
+        "luas": 2238,
+        "jml_industri": 2,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PALIHAN",
+        "luas": 2420,
+        "jml_industri": 3,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GLAGAH",
+        "luas": 3043,
+        "jml_industri": 6,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KALIDENGEN",
+        "luas": 1397,
+        "jml_industri": 1,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PLUMBON",
+        "luas": 2464,
+        "jml_industri": 3,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEDUNDANG",
+        "luas": 2452,
+        "jml_industri": 1,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DEMEN",
+        "luas": 1458,
+        "jml_industri": 0,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KULUR",
+        "luas": 2901,
+        "jml_industri": 2,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KALIGINTUNG",
+        "luas": 1771,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TEMON WETAN",
+        "luas": 1590,
+        "jml_industri": 1,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TEMON KULON",
+        "luas": 1793,
+        "jml_industri": 1,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEBONREJO",
+        "luas": 1465,
+        "jml_industri": 1,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JANTEN",
+        "luas": 1307,
+        "jml_industri": 1,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGWULUH",
+        "luas": 1086,
+        "jml_industri": 1,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WATES",
+        "luas": 14223,
+        "jml_industri": 2,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGWUNI",
+        "luas": 3522,
+        "jml_industri": 8,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SOGAN",
+        "luas": 2070,
+        "jml_industri": 2,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KULWARU",
+        "luas": 2962,
+        "jml_industri": 2,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGESTIHARJO",
+        "luas": 3580,
+        "jml_industri": 4,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BENDUNGAN",
+        "luas": 7229,
+        "jml_industri": 5,
+        "jml_penduduk": 36,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TRIHARJO",
+        "luas": 7516,
+        "jml_industri": 6,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIPENI",
+        "luas": 8190,
+        "jml_industri": 3,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GARONGAN",
+        "luas": 3744,
+        "jml_industri": 6,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PLERET",
+        "luas": 4949,
+        "jml_industri": 5,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BUGEL",
+        "luas": 4489,
+        "jml_industri": 6,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KANOMAN",
+        "luas": 2117,
+        "jml_industri": 2,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DEPOK",
+        "luas": 3113,
+        "jml_industri": 2,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BOJONG",
+        "luas": 4442,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TAYUBAN",
+        "luas": 2367,
+        "jml_industri": 2,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GOTAKAN",
+        "luas": 3115,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PANJATAN",
+        "luas": 1533,
+        "jml_industri": 1,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "CERME",
+        "luas": 3785,
+        "jml_industri": 4,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KREMBANGAN",
+        "luas": 5419,
+        "jml_industri": 5,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANARAN",
+        "luas": 5650,
+        "jml_industri": 7,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KRANGGAN",
+        "luas": 2614,
+        "jml_industri": 2,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NOMPOREJO",
+        "luas": 2207,
+        "jml_industri": 1,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGSEWU",
+        "luas": 8447,
+        "jml_industri": 9,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TIRTORAHAYU",
+        "luas": 7247,
+        "jml_industri": 5,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PANDOWAN",
+        "luas": 2082,
+        "jml_industri": 1,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BROSOT",
+        "luas": 4873,
+        "jml_industri": 3,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WAHYUHARJO",
+        "luas": 1963,
+        "jml_industri": 1,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BUMIREJO",
+        "luas": 9301,
+        "jml_industri": 8,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JATIREJO",
+        "luas": 7062,
+        "jml_industri": 6,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOREJO",
+        "luas": 8161,
+        "jml_industri": 12,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GULUREJO",
+        "luas": 7549,
+        "jml_industri": 5,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGENTAKREJO",
+        "luas": 7417,
+        "jml_industri": 6,
+        "jml_penduduk": 11,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DEMANGREJO",
+        "luas": 3384,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SRIKAYANGAN",
+        "luas": 5362,
+        "jml_industri": 7,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TUKSONO",
+        "luas": 8572,
+        "jml_industri": 10,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SALAMREJO",
+        "luas": 5833,
+        "jml_industri": 4,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUKORENO",
+        "luas": 8555,
+        "jml_industri": 10,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KALIAGUNG",
+        "luas": 6343,
+        "jml_industri": 7,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SENTOLO",
+        "luas": 8539,
+        "jml_industri": 5,
+        "jml_penduduk": 16,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANGUNCIPTO",
+        "luas": 3909,
+        "jml_industri": 4,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TAWANGSARI",
+        "luas": 4975,
+        "jml_industri": 15,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGSARI",
+        "luas": 11000,
+        "jml_industri": 8,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEDUNGSARI",
+        "luas": 4664,
+        "jml_industri": 5,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MARGOSARI",
+        "luas": 6170,
+        "jml_industri": 4,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PENGASIH",
+        "luas": 9893,
+        "jml_industri": 7,
+        "jml_penduduk": 13,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SENDANGSARI",
+        "luas": 10008,
+        "jml_industri": 12,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOMULYO",
+        "luas": 5464,
+        "jml_industri": 13,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "HARGOMULYO",
+        "luas": 8129,
+        "jml_industri": 12,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "HARGOREJO",
+        "luas": 9663,
+        "jml_industri": 18,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "HARGOWILIS",
+        "luas": 6609,
+        "jml_industri": 14,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KALIREJO",
+        "luas": 4922,
+        "jml_industri": 12,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "HARGOTIRTO",
+        "luas": 7264,
+        "jml_industri": 12,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JATIMULYO",
+        "luas": 7430,
+        "jml_industri": 16,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIPURWO",
+        "luas": 7028,
+        "jml_industri": 26,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PENDOWOREJO",
+        "luas": 5831,
+        "jml_industri": 9,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PURWOSARI",
+        "luas": 4851,
+        "jml_industri": 14,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANYUROTO",
+        "luas": 4128,
+        "jml_industri": 8,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DONOMULYO",
+        "luas": 6479,
+        "jml_industri": 10,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WIJIMULYO",
+        "luas": 5519,
+        "jml_industri": 6,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TANJUNGHARJO",
+        "luas": 4687,
+        "jml_industri": 5,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JATISARONO",
+        "luas": 5147,
+        "jml_industri": 4,
+        "jml_penduduk": 12,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEMBANG",
+        "luas": 5009,
+        "jml_industri": 4,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEBONHARJO",
+        "luas": 2383,
+        "jml_industri": 7,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANJARSARI",
+        "luas": 3249,
+        "jml_industri": 10,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PURWOHARJO",
+        "luas": 3591,
+        "jml_industri": 10,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOHARJO",
+        "luas": 5246,
+        "jml_industri": 16,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GERBOSARI",
+        "luas": 4829,
+        "jml_industri": 10,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGARGOSARI",
+        "luas": 4221,
+        "jml_industri": 7,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PAGERHARJO",
+        "luas": 5060,
+        "jml_industri": 10,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANJARARUM",
+        "luas": 9500,
+        "jml_industri": 10,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANJARASRI",
+        "luas": 4734,
+        "jml_industri": 11,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANJARHARJO",
+        "luas": 7707,
+        "jml_industri": 12,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANJAROYO",
+        "luas": 8842,
+        "jml_industri": 15,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PONCOSARI",
+        "luas": 13078,
+        "jml_industri": 13,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TRIMURTI",
+        "luas": 18139,
+        "jml_industri": 6,
+        "jml_penduduk": 36,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GADINGSARI",
+        "luas": 10109,
+        "jml_industri": 7,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GADINGHARJO",
+        "luas": 3813,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SRIGADING",
+        "luas": 9545,
+        "jml_industri": 7,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MURTIGADING",
+        "luas": 8528,
+        "jml_industri": 5,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TIRTOMULYO",
+        "luas": 7036,
+        "jml_industri": 3,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PARANGTRITIS",
+        "luas": 7845,
+        "jml_industri": 10,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DONOTIRTO",
+        "luas": 8510,
+        "jml_industri": 4,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TIRTOSARI",
+        "luas": 4478,
+        "jml_industri": 3,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TIRTOHARGO",
+        "luas": 3029,
+        "jml_industri": 4,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SELOHARJO",
+        "luas": 11789,
+        "jml_industri": 10,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PANJANGREJO",
+        "luas": 9707,
+        "jml_industri": 5,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SRIHARDONO",
+        "luas": 14255,
+        "jml_industri": 7,
+        "jml_penduduk": 13,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOMULYO",
+        "luas": 13881,
+        "jml_industri": 8,
+        "jml_penduduk": 12,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MULYODADI",
+        "luas": 11989,
+        "jml_industri": 6,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERMULYO",
+        "luas": 15908,
+        "jml_industri": 8,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "CATUHARJO",
+        "luas": 11602,
+        "jml_industri": 5,
+        "jml_penduduk": 11,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TRIHARJO",
+        "luas": 13232,
+        "jml_industri": 5,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GILANGHARJO",
+        "luas": 15934,
+        "jml_industri": 7,
+        "jml_penduduk": 18,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WIJIREJO",
+        "luas": 11155,
+        "jml_industri": 4,
+        "jml_penduduk": 47,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TRIWIDADI",
+        "luas": 10774,
+        "jml_industri": 12,
+        "jml_penduduk": 10,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SENDANGSARI",
+        "luas": 12105,
+        "jml_industri": 11,
+        "jml_penduduk": 23,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GUWOSARI",
+        "luas": 12904,
+        "jml_industri": 8,
+        "jml_penduduk": 22,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PALBAPANG",
+        "luas": 13792,
+        "jml_industri": 5,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "RINGINHARJO",
+        "luas": 8290,
+        "jml_industri": 2,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANTUL",
+        "luas": 16535,
+        "jml_industri": 5,
+        "jml_penduduk": 34,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TRIRENGGO",
+        "luas": 18379,
+        "jml_industri": 6,
+        "jml_penduduk": 26,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SABDODADI",
+        "luas": 6979,
+        "jml_industri": 2,
+        "jml_penduduk": 19,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PATALAN",
+        "luas": 12202,
+        "jml_industri": 5,
+        "jml_penduduk": 21,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "CANDEN",
+        "luas": 12136,
+        "jml_industri": 5,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERAGUNG",
+        "luas": 15502,
+        "jml_industri": 7,
+        "jml_penduduk": 13,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TRIMULYO",
+        "luas": 18561,
+        "jml_industri": 6,
+        "jml_penduduk": 19,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SELOPAMIORO",
+        "luas": 14775,
+        "jml_industri": 20,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SRIHARJO",
+        "luas": 9454,
+        "jml_industri": 5,
+        "jml_penduduk": 13,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WUKIRSARI",
+        "luas": 17782,
+        "jml_industri": 17,
+        "jml_penduduk": 43,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEBONAGUNG",
+        "luas": 3900,
+        "jml_industri": 1,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGTENGAH",
+        "luas": 5358,
+        "jml_industri": 5,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIREJO",
+        "luas": 4851,
+        "jml_industri": 3,
+        "jml_penduduk": 18,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGTALUN",
+        "luas": 3078,
+        "jml_industri": 1,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "IMOGIRI",
+        "luas": 4248,
+        "jml_industri": 1,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MANGUNAN",
+        "luas": 4786,
+        "jml_industri": 11,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MUNTUK",
+        "luas": 8572,
+        "jml_industri": 12,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DLINGO",
+        "luas": 5922,
+        "jml_industri": 9,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TEMUWUH",
+        "luas": 7364,
+        "jml_industri": 7,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TERONG",
+        "luas": 5679,
+        "jml_industri": 8,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JATIMULYO",
+        "luas": 7077,
+        "jml_industri": 9,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BATURETNO",
+        "luas": 16488,
+        "jml_industri": 3,
+        "jml_penduduk": 51,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANGUNTAPAN",
+        "luas": 38393,
+        "jml_industri": 5,
+        "jml_penduduk": 59,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JAGALAN",
+        "luas": 2990,
+        "jml_industri": 1,
+        "jml_penduduk": 29,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0.01,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SINGOSAREN",
+        "luas": 3854,
+        "jml_industri": 1,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JAMBIDAN",
+        "luas": 10134,
+        "jml_industri": 3,
+        "jml_penduduk": 12,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "POTORONO",
+        "luas": 12863,
+        "jml_industri": 3,
+        "jml_penduduk": 21,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TAMANAN",
+        "luas": 12526,
+        "jml_industri": 3,
+        "jml_penduduk": 27,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WIROKERTEN",
+        "luas": 13984,
+        "jml_industri": 4,
+        "jml_penduduk": 33,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WONOKROMO",
+        "luas": 14241,
+        "jml_industri": 3,
+        "jml_penduduk": 15,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PLERET",
+        "luas": 13420,
+        "jml_industri": 4,
+        "jml_penduduk": 12,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SEGOROYOSO",
+        "luas": 8917,
+        "jml_industri": 5,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BAWURAN",
+        "luas": 6435,
+        "jml_industri": 3,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WONOLELO",
+        "luas": 4832,
+        "jml_industri": 5,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SITIMULYO",
+        "luas": 17612,
+        "jml_industri": 10,
+        "jml_penduduk": 12,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SRIMULYO",
+        "luas": 17624,
+        "jml_industri": 14,
+        "jml_penduduk": 16,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SRIMARTANI",
+        "luas": 16865,
+        "jml_industri": 9,
+        "jml_penduduk": 13,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PENDOWOHARJO",
+        "luas": 22281,
+        "jml_industri": 6,
+        "jml_penduduk": 39,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TIMBULHARJO",
+        "luas": 22668,
+        "jml_industri": 8,
+        "jml_penduduk": 39,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANGUNHARJO",
+        "luas": 26109,
+        "jml_industri": 7,
+        "jml_penduduk": 69,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PANGGUNGHARJO",
+        "luas": 28222,
+        "jml_industri": 5,
+        "jml_penduduk": 82,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANGUJIWO",
+        "luas": 26784,
+        "jml_industri": 14,
+        "jml_penduduk": 84,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TIRTONIRMOLO",
+        "luas": 23258,
+        "jml_industri": 5,
+        "jml_penduduk": 78,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TAMANTIRTO",
+        "luas": 22811,
+        "jml_industri": 6,
+        "jml_penduduk": 75,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGESTIHARJO",
+        "luas": 30116,
+        "jml_industri": 2,
+        "jml_penduduk": 68,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "Argodadi",
+        "luas": 11762,
+        "jml_industri": 11,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "Argorejo",
+        "luas": 12449,
+        "jml_industri": 7,
+        "jml_penduduk": 11,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "Argosari",
+        "luas": 9095,
+        "jml_industri": 5,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "Argomulyo",
+        "luas": 14141,
+        "jml_industri": 9,
+        "jml_penduduk": 19,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WONOSARI",
+        "luas": 9209,
+        "jml_industri": 3,
+        "jml_penduduk": 22,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEPEK",
+        "luas": 11342,
+        "jml_industri": 8,
+        "jml_penduduk": 18,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PIYAMAN",
+        "luas": 8819,
+        "jml_industri": 6,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GARI",
+        "luas": 6507,
+        "jml_industri": 6,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGTENGAH",
+        "luas": 8775,
+        "jml_industri": 2,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SELANG",
+        "luas": 4811,
+        "jml_industri": 3,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BALEHARJO",
+        "luas": 6430,
+        "jml_industri": 4,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIRAMAN",
+        "luas": 5936,
+        "jml_industri": 4,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PULUTAN",
+        "luas": 4347,
+        "jml_industri": 7,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WARENG",
+        "luas": 4327,
+        "jml_industri": 6,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DUWET",
+        "luas": 2623,
+        "jml_industri": 4,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MULO",
+        "luas": 5107,
+        "jml_industri": 6,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WUNUNG",
+        "luas": 3604,
+        "jml_industri": 10,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGREJEK",
+        "luas": 5831,
+        "jml_industri": 4,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NATAH",
+        "luas": 3948,
+        "jml_industri": 8,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PILANGREJO",
+        "luas": 3621,
+        "jml_industri": 9,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEDUNGPOH",
+        "luas": 6177,
+        "jml_industri": 12,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PENGKOL",
+        "luas": 5664,
+        "jml_industri": 7,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEDUNGKERIS",
+        "luas": 4746,
+        "jml_industri": 10,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGLIPAR",
+        "luas": 4384,
+        "jml_industri": 13,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KATONGAN",
+        "luas": 5067,
+        "jml_industri": 13,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANYUSOCO",
+        "luas": 5875,
+        "jml_industri": 18,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PLEMBUTAN",
+        "luas": 4875,
+        "jml_industri": 6,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BLEBERAN",
+        "luas": 5567,
+        "jml_industri": 15,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GETAS",
+        "luas": 5505,
+        "jml_industri": 8,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DENGOK",
+        "luas": 2571,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGUNUT",
+        "luas": 2285,
+        "jml_industri": 3,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PLAYEN",
+        "luas": 4307,
+        "jml_industri": 4,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGAWU",
+        "luas": 4100,
+        "jml_industri": 4,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANDUNG",
+        "luas": 4014,
+        "jml_industri": 11,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "LOGANDENG",
+        "luas": 8740,
+        "jml_industri": 6,
+        "jml_penduduk": 12,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GADING",
+        "luas": 6336,
+        "jml_industri": 10,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANARAN",
+        "luas": 4359,
+        "jml_industri": 7,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGLERI",
+        "luas": 2789,
+        "jml_industri": 3,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BUNDER",
+        "luas": 3472,
+        "jml_industri": 10,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BEJI",
+        "luas": 2679,
+        "jml_industri": 7,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PENGKOK",
+        "luas": 3201,
+        "jml_industri": 4,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SEMOYO",
+        "luas": 2688,
+        "jml_industri": 6,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SALAM",
+        "luas": 3224,
+        "jml_industri": 4,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PATUK",
+        "luas": 2871,
+        "jml_industri": 2,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGORO-ORO",
+        "luas": 3640,
+        "jml_industri": 8,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGLANGGERAN",
+        "luas": 2627,
+        "jml_industri": 7,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PUTAT",
+        "luas": 4216,
+        "jml_industri": 8,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGLEGI",
+        "luas": 3211,
+        "jml_industri": 8,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TERBAH",
+        "luas": 2621,
+        "jml_industri": 5,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SODO",
+        "luas": 4811,
+        "jml_industri": 1,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PAMPANG",
+        "luas": 2708,
+        "jml_industri": 4,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GROGOL",
+        "luas": 2451,
+        "jml_industri": 4,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGDUWET",
+        "luas": 6679,
+        "jml_industri": 16,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGASEM",
+        "luas": 8202,
+        "jml_industri": 14,
+        "jml_penduduk": 10,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MULUSAN",
+        "luas": 5322,
+        "jml_industri": 5,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRING",
+        "luas": 2935,
+        "jml_industri": 11,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIKARTO",
+        "luas": 4010,
+        "jml_industri": 13,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRISEKAR",
+        "luas": 7670,
+        "jml_industri": 16,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIMULYO",
+        "luas": 5892,
+        "jml_industri": 12,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIWUNGU",
+        "luas": 2525,
+        "jml_industri": 15,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0.01,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIHARJO",
+        "luas": 4006,
+        "jml_industri": 12,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRISUKO",
+        "luas": 5574,
+        "jml_industri": 28,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0.01,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIPANGGUNG",
+        "luas": 6340,
+        "jml_industri": 17,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERWUNGU",
+        "luas": 6495,
+        "jml_industri": 20,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOHARJO",
+        "luas": 6815,
+        "jml_industri": 11,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TEPUS",
+        "luas": 9531,
+        "jml_industri": 29,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PURWODADI",
+        "luas": 7752,
+        "jml_industri": 21,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGEPOSARI",
+        "luas": 10282,
+        "jml_industri": 12,
+        "jml_penduduk": 14,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SEMANU",
+        "luas": 16933,
+        "jml_industri": 16,
+        "jml_penduduk": 11,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PACAREJO",
+        "luas": 17113,
+        "jml_industri": 27,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "CANDIREJO",
+        "luas": 8173,
+        "jml_industri": 21,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DADAPAYU",
+        "luas": 7752,
+        "jml_industri": 22,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BEJIHARJO",
+        "luas": 16418,
+        "jml_industri": 19,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WILADEG",
+        "luas": 4482,
+        "jml_industri": 4,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BENDUNGAN",
+        "luas": 2258,
+        "jml_industri": 4,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KELOR",
+        "luas": 3192,
+        "jml_industri": 5,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGIPAK",
+        "luas": 3511,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGMOJO",
+        "luas": 8957,
+        "jml_industri": 8,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GEDANGREJO",
+        "luas": 6286,
+        "jml_industri": 6,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGAWIS",
+        "luas": 4174,
+        "jml_industri": 7,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JATIAYU",
+        "luas": 7621,
+        "jml_industri": 14,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "UMBULREJO",
+        "luas": 7500,
+        "jml_industri": 14,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SAWAHAN",
+        "luas": 5683,
+        "jml_industri": 12,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TAMBAKROMO",
+        "luas": 4309,
+        "jml_industri": 8,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KENTENG",
+        "luas": 3384,
+        "jml_industri": 9,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERGIRI",
+        "luas": 4896,
+        "jml_industri": 11,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GENJAHAN",
+        "luas": 6002,
+        "jml_industri": 5,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PONJONG",
+        "luas": 5115,
+        "jml_industri": 6,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGASEM",
+        "luas": 2611,
+        "jml_industri": 9,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BEDOYO",
+        "luas": 4222,
+        "jml_industri": 9,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOREJO",
+        "luas": 9627,
+        "jml_industri": 8,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GOMBANG",
+        "luas": 3386,
+        "jml_industri": 8,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BOHOL",
+        "luas": 1288,
+        "jml_industri": 6,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PRINGOMBO",
+        "luas": 3992,
+        "jml_industri": 7,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BOTODAYAAN",
+        "luas": 4919,
+        "jml_industri": 12,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PETIR",
+        "luas": 3626,
+        "jml_industri": 11,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PUCANGANOM",
+        "luas": 4004,
+        "jml_industri": 12,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SEMUGIH",
+        "luas": 4848,
+        "jml_industri": 11,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MELIKAN",
+        "luas": 3436,
+        "jml_industri": 11,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGWUNI",
+        "luas": 3827,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KALITEKUK",
+        "luas": 4042,
+        "jml_industri": 9,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEMEJING",
+        "luas": 3836,
+        "jml_industri": 4,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BULUREJO",
+        "luas": 3707,
+        "jml_industri": 2,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBEREJO",
+        "luas": 6183,
+        "jml_industri": 9,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BENDUNG",
+        "luas": 4382,
+        "jml_industri": 4,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "CANDIREJO",
+        "luas": 7697,
+        "jml_industri": 12,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "REJOSARI",
+        "luas": 5411,
+        "jml_industri": 11,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGSARI",
+        "luas": 5887,
+        "jml_industri": 5,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PUNDUNGSARI",
+        "luas": 4652,
+        "jml_industri": 7,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SEMIN",
+        "luas": 11352,
+        "jml_industri": 14,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TANCEP",
+        "luas": 6005,
+        "jml_industri": 7,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SAMBIREJO",
+        "luas": 7625,
+        "jml_industri": 9,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JURANGJERO",
+        "luas": 4818,
+        "jml_industri": 6,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KAMPUNG",
+        "luas": 6742,
+        "jml_industri": 9,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BEJI",
+        "luas": 4307,
+        "jml_industri": 4,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WATUSIGAR",
+        "luas": 5620,
+        "jml_industri": 7,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "HARGOMULYO",
+        "luas": 7383,
+        "jml_industri": 11,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MERTELU",
+        "luas": 3826,
+        "jml_industri": 9,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WATUGAJAH",
+        "luas": 4045,
+        "jml_industri": 7,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SAMPANG",
+        "luas": 2997,
+        "jml_industri": 6,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SERUT",
+        "luas": 5073,
+        "jml_industri": 7,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGALANG",
+        "luas": 8577,
+        "jml_industri": 14,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TEGALREJO",
+        "luas": 7731,
+        "jml_industri": 10,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KRAMBILSAWIT",
+        "luas": 6445,
+        "jml_industri": 18,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGLORO",
+        "luas": 3403,
+        "jml_industri": 5,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JETIS",
+        "luas": 5324,
+        "jml_industri": 9,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEPEK",
+        "luas": 6149,
+        "jml_industri": 3,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KANIGORO",
+        "luas": 6868,
+        "jml_industri": 28,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MONGGOL",
+        "luas": 4933,
+        "jml_industri": 8,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PLANJAN",
+        "luas": 6469,
+        "jml_industri": 11,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BALONG",
+        "luas": 3922,
+        "jml_industri": 11,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JEPITU",
+        "luas": 4343,
+        "jml_industri": 17,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGAWEN",
+        "luas": 1615,
+        "jml_industri": 7,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGLINDUR",
+        "luas": 2766,
+        "jml_industri": 6,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JERUKWUDEL",
+        "luas": 1897,
+        "jml_industri": 5,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TILENG",
+        "luas": 4368,
+        "jml_industri": 14,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PUCUNG",
+        "luas": 3383,
+        "jml_industri": 14,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SONGBANYU",
+        "luas": 3593,
+        "jml_industri": 19,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0.01,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "HARGOSARI",
+        "luas": 5622,
+        "jml_industri": 8,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEMIRI",
+        "luas": 4717,
+        "jml_industri": 10,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEMADANG",
+        "luas": 7217,
+        "jml_industri": 16,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANJAREJO",
+        "luas": 6015,
+        "jml_industri": 17,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGESTIREJO",
+        "luas": 5898,
+        "jml_industri": 15,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIPURWO",
+        "luas": 9047,
+        "jml_industri": 16,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRICAHYO",
+        "luas": 4239,
+        "jml_industri": 14,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIJATI",
+        "luas": 2162,
+        "jml_industri": 8,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIASIH",
+        "luas": 1533,
+        "jml_industri": 5,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRITIRTO",
+        "luas": 4104,
+        "jml_industri": 11,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BALECATUR",
+        "luas": 19459,
+        "jml_industri": 9,
+        "jml_penduduk": 21,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "Ambarketawang",
+        "luas": 21647,
+        "jml_industri": 6,
+        "jml_penduduk": 46,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANYURADEN",
+        "luas": 16034,
+        "jml_industri": 4,
+        "jml_penduduk": 30,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NOGOTIRTO",
+        "luas": 18177,
+        "jml_industri": 3,
+        "jml_penduduk": 26,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TRIHANGGO",
+        "luas": 17938,
+        "jml_industri": 5,
+        "jml_penduduk": 37,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOREJO",
+        "luas": 7016,
+        "jml_industri": 5,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOLUHUR",
+        "luas": 10103,
+        "jml_industri": 5,
+        "jml_penduduk": 18,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOMULYO",
+        "luas": 6480,
+        "jml_industri": 2,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOAGUNG",
+        "luas": 9372,
+        "jml_industri": 2,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOKARTO",
+        "luas": 11646,
+        "jml_industri": 3,
+        "jml_penduduk": 12,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOARUM",
+        "luas": 16637,
+        "jml_industri": 3,
+        "jml_penduduk": 16,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SIDOMOYO",
+        "luas": 8522,
+        "jml_industri": 3,
+        "jml_penduduk": 13,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERAHAYU",
+        "luas": 6680,
+        "jml_industri": 6,
+        "jml_penduduk": 14,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERSARI",
+        "luas": 8209,
+        "jml_industri": 5,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERAGUNG",
+        "luas": 11775,
+        "jml_industri": 6,
+        "jml_penduduk": 10,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERARUM",
+        "luas": 6990,
+        "jml_industri": 7,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SENDANGARUM",
+        "luas": 3704,
+        "jml_industri": 3,
+        "jml_penduduk": 10,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SENDANGMULYO",
+        "luas": 6913,
+        "jml_industri": 6,
+        "jml_penduduk": 12,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SENDANGAGUNG",
+        "luas": 8165,
+        "jml_industri": 6,
+        "jml_penduduk": 11,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SENDANGSARI",
+        "luas": 5115,
+        "jml_industri": 4,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SENDANGREJO",
+        "luas": 8646,
+        "jml_industri": 5,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MARGOLUWIH",
+        "luas": 10577,
+        "jml_industri": 5,
+        "jml_penduduk": 11,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MARGODADI",
+        "luas": 9208,
+        "jml_industri": 6,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MARGOKATON",
+        "luas": 7863,
+        "jml_industri": 5,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MARGOMULYO",
+        "luas": 12848,
+        "jml_industri": 5,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MARGOAGUNG",
+        "luas": 10375,
+        "jml_industri": 5,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SINDUADI",
+        "luas": 34249,
+        "jml_industri": 6,
+        "jml_penduduk": 91,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SENDANGADI",
+        "luas": 17715,
+        "jml_industri": 5,
+        "jml_penduduk": 34,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TLOGOADI",
+        "luas": 12929,
+        "jml_industri": 4,
+        "jml_penduduk": 15,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TIRTOADI",
+        "luas": 10852,
+        "jml_industri": 5,
+        "jml_penduduk": 17,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERADI",
+        "luas": 15693,
+        "jml_industri": 6,
+        "jml_penduduk": 11,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "CATURTUNGGAL",
+        "luas": 44318,
+        "jml_industri": 10,
+        "jml_penduduk": 160,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MAGUWOHARJO",
+        "luas": 35067,
+        "jml_industri": 15,
+        "jml_penduduk": 98,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "CONDONGCATUR",
+        "luas": 41904,
+        "jml_industri": 8,
+        "jml_penduduk": 127,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SENDANGTIRTO",
+        "luas": 17427,
+        "jml_industri": 5,
+        "jml_penduduk": 37,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TEGALTIRTO",
+        "luas": 12507,
+        "jml_industri": 5,
+        "jml_penduduk": 17,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KALITIRTO",
+        "luas": 13630,
+        "jml_industri": 6,
+        "jml_penduduk": 12,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "JOGOTIRTO",
+        "luas": 11078,
+        "jml_industri": 5,
+        "jml_penduduk": 14,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERHARJO",
+        "luas": 14625,
+        "jml_industri": 8,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WUKIRHARJO",
+        "luas": 2730,
+        "jml_industri": 5,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GAYAMHARJO",
+        "luas": 4570,
+        "jml_industri": 6,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SAMBIREJO",
+        "luas": 5793,
+        "jml_industri": 8,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MADUREJO",
+        "luas": 13659,
+        "jml_industri": 7,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BOKOHARJO",
+        "luas": 12372,
+        "jml_industri": 5,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PURWOMARTANI",
+        "luas": 35150,
+        "jml_industri": 11,
+        "jml_penduduk": 64,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TIRTOMARTANI",
+        "luas": 17428,
+        "jml_industri": 7,
+        "jml_penduduk": 20,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TAMANMARTANI",
+        "luas": 16344,
+        "jml_industri": 7,
+        "jml_penduduk": 13,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SELOMARTANI",
+        "luas": 12898,
+        "jml_industri": 8,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SINDUMARTANI",
+        "luas": 8034,
+        "jml_industri": 5,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BIMOMARTANI",
+        "luas": 7642,
+        "jml_industri": 5,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WIDODOMARTANI",
+        "luas": 8346,
+        "jml_industri": 6,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WEDOMARTANI",
+        "luas": 28512,
+        "jml_industri": 13,
+        "jml_penduduk": 69,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "UMBULMARTANI",
+        "luas": 9345,
+        "jml_industri": 6,
+        "jml_penduduk": 17,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SARIHARJO",
+        "luas": 21070,
+        "jml_industri": 6,
+        "jml_penduduk": 52,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MINOMARTANI",
+        "luas": 12470,
+        "jml_industri": 1,
+        "jml_penduduk": 34,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SINDUHARJO",
+        "luas": 18483,
+        "jml_industri": 5,
+        "jml_penduduk": 56,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUKOHARJO",
+        "luas": 14967,
+        "jml_industri": 7,
+        "jml_penduduk": 35,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SARDONOHARJO",
+        "luas": 19865,
+        "jml_industri": 9,
+        "jml_penduduk": 38,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DONOHARJO",
+        "luas": 9568,
+        "jml_industri": 6,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "CATURHARJO",
+        "luas": 14728,
+        "jml_industri": 7,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TRIHARJO",
+        "luas": 17995,
+        "jml_industri": 4,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TRIDADI",
+        "luas": 14895,
+        "jml_industri": 4,
+        "jml_penduduk": 25,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PANDOWOHARJO",
+        "luas": 12046,
+        "jml_industri": 7,
+        "jml_penduduk": 13,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TRIMULYO",
+        "luas": 9578,
+        "jml_industri": 5,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANYUREJO",
+        "luas": 7714,
+        "jml_industri": 4,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TAMBAKREJO",
+        "luas": 5241,
+        "jml_industri": 3,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SUMBERREJO",
+        "luas": 4663,
+        "jml_industri": 2,
+        "jml_penduduk": 2,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PONDOKREJO",
+        "luas": 6342,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MOROREJO",
+        "luas": 5289,
+        "jml_industri": 3,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MARGOREJO",
+        "luas": 10700,
+        "jml_industri": 5,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "LUMBUNGREJO",
+        "luas": 7661,
+        "jml_industri": 3,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MERDIKOREJO",
+        "luas": 6644,
+        "jml_industri": 5,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BANGUNKERTO",
+        "luas": 9283,
+        "jml_industri": 7,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DONOKERTO",
+        "luas": 9230,
+        "jml_industri": 7,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIRIKERTO",
+        "luas": 8260,
+        "jml_industri": 11,
+        "jml_penduduk": 4,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WONOKERTO",
+        "luas": 10430,
+        "jml_industri": 14,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PURWOBINANGUN",
+        "luas": 9469,
+        "jml_industri": 12,
+        "jml_penduduk": 3,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "CANDIBINANGUN",
+        "luas": 6571,
+        "jml_industri": 6,
+        "jml_penduduk": 8,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "HARJOBINANGUN",
+        "luas": 6055,
+        "jml_industri": 5,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PAKEMBINANGUN",
+        "luas": 6563,
+        "jml_industri": 4,
+        "jml_penduduk": 10,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "HARGOBINANGUN",
+        "luas": 8877,
+        "jml_industri": 24,
+        "jml_penduduk": 7,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "Argomulyo",
+        "luas": 7868,
+        "jml_industri": 7,
+        "jml_penduduk": 5,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WUKIRSARI",
+        "luas": 10753,
+        "jml_industri": 12,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GLAGAHARJO",
+        "luas": 4052,
+        "jml_industri": 7,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEPUHARJO",
+        "luas": 3435,
+        "jml_industri": 7,
+        "jml_penduduk": 0,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "UMBULHARJO",
+        "luas": 5232,
+        "jml_industri": 9,
+        "jml_penduduk": 1,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KRICAK",
+        "luas": 13238,
+        "jml_industri": 0,
+        "jml_penduduk": 9,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KARANGWARU",
+        "luas": 9778,
+        "jml_industri": 0,
+        "jml_penduduk": 19,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TEGALREJO",
+        "luas": 9202,
+        "jml_industri": 0,
+        "jml_penduduk": 14,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BENER",
+        "luas": 4940,
+        "jml_industri": 0,
+        "jml_penduduk": 13,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BUMIJO",
+        "luas": 10310,
+        "jml_industri": 0,
+        "jml_penduduk": 11,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "COKRODININGRATAN",
+        "luas": 8868,
+        "jml_industri": 0,
+        "jml_penduduk": 20,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GOWONGAN",
+        "luas": 7939,
+        "jml_industri": 0,
+        "jml_penduduk": 29,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "DEMANGAN",
+        "luas": 8743,
+        "jml_industri": 0,
+        "jml_penduduk": 14,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KOTABARU",
+        "luas": 2741,
+        "jml_industri": 0,
+        "jml_penduduk": 17,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0.01,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KLITREN",
+        "luas": 9603,
+        "jml_industri": 0,
+        "jml_penduduk": 20,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BACIRO",
+        "luas": 12299,
+        "jml_industri": 1,
+        "jml_penduduk": 33,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TERBAN",
+        "luas": 9136,
+        "jml_industri": 0,
+        "jml_penduduk": 24,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SURYATMAJAN",
+        "luas": 4654,
+        "jml_industri": 0,
+        "jml_penduduk": 31,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0.01,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TEGALPANGGUNG",
+        "luas": 9225,
+        "jml_industri": 0,
+        "jml_penduduk": 6,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BAUSASRAN",
+        "luas": 7395,
+        "jml_industri": 0,
+        "jml_penduduk": 16,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SOSROMENDURAN",
+        "luas": 7490,
+        "jml_industri": 0,
+        "jml_penduduk": 36,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PRINGGOKUSUMAN",
+        "luas": 12386,
+        "jml_industri": 0,
+        "jml_penduduk": 10,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGAMPILAN",
+        "luas": 10378,
+        "jml_industri": 0,
+        "jml_penduduk": 37,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NOTOPRAJAN",
+        "luas": 8208,
+        "jml_industri": 0,
+        "jml_penduduk": 14,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PAKUNCEN",
+        "luas": 10857,
+        "jml_industri": 0,
+        "jml_penduduk": 17,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WIROBRAJAN",
+        "luas": 9363,
+        "jml_industri": 0,
+        "jml_penduduk": 24,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PATANGPULUHAN",
+        "luas": 7711,
+        "jml_industri": 0,
+        "jml_penduduk": 14,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GEDONGKIWO",
+        "luas": 14033,
+        "jml_industri": 0,
+        "jml_penduduk": 19,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SURYODININGRATAN",
+        "luas": 11203,
+        "jml_industri": 0,
+        "jml_penduduk": 32,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MANTRIJERON",
+        "luas": 10152,
+        "jml_industri": 0,
+        "jml_penduduk": 53,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0.01,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PATEHAN",
+        "luas": 5903,
+        "jml_industri": 0,
+        "jml_penduduk": 22,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PANEMBAHAN",
+        "luas": 9213,
+        "jml_industri": 0,
+        "jml_penduduk": 36,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KADIPATEN",
+        "luas": 6819,
+        "jml_industri": 0,
+        "jml_penduduk": 26,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "NGUPASAN",
+        "luas": 5671,
+        "jml_industri": 0,
+        "jml_penduduk": 11,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PRAWIRODIRJAN",
+        "luas": 9370,
+        "jml_industri": 0,
+        "jml_penduduk": 51,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0.01,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PURWOKINANTI",
+        "luas": 6231,
+        "jml_industri": 0,
+        "jml_penduduk": 14,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GUNUNGKETUR",
+        "luas": 4546,
+        "jml_industri": 0,
+        "jml_penduduk": 14,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "KEPARAKAN",
+        "luas": 9900,
+        "jml_industri": 0,
+        "jml_penduduk": 10,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WIROGUNAN",
+        "luas": 11318,
+        "jml_industri": 1,
+        "jml_penduduk": 38,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "BRONTOKUSUMAN",
+        "luas": 10882,
+        "jml_industri": 1,
+        "jml_penduduk": 26,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SEMAKI",
+        "luas": 5216,
+        "jml_industri": 0,
+        "jml_penduduk": 11,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "MUJA MUJU",
+        "luas": 10821,
+        "jml_industri": 1,
+        "jml_penduduk": 30,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "TAHUNAN",
+        "luas": 9147,
+        "jml_industri": 0,
+        "jml_penduduk": 13,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "WARUNGBOTO",
+        "luas": 9135,
+        "jml_industri": 0,
+        "jml_penduduk": 23,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PANDEYAN",
+        "luas": 12161,
+        "jml_industri": 1,
+        "jml_penduduk": 27,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "SOROSUTAN",
+        "luas": 15452,
+        "jml_industri": 1,
+        "jml_penduduk": 36,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "GIWANGAN",
+        "luas": 7885,
+        "jml_industri": 1,
+        "jml_penduduk": 16,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "REJOWINANGUN",
+        "luas": 12634,
+        "jml_industri": 1,
+        "jml_penduduk": 30,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PRENGGAN",
+        "luas": 11275,
+        "jml_industri": 0,
+        "jml_penduduk": 35,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0,
+        "klas_penduduk": 1
+    },
+    {
+        "desa": "PURBAYAN",
+        "luas": 10172,
+        "jml_industri": 0,
+        "jml_penduduk": 54,
+        "kepadatan_industri": 0,
+        "klas_industri": 1,
+        "kepadatan_penduduk": 0.01,
+        "klas_penduduk": 1
+    }
+]

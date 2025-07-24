@@ -1,0 +1,3068 @@
+[
+    {
+        "DESA": "JANGKARAN",
+        "kepadatan_industri": 0.29,
+        "kepadatan_penduduk": 569.36,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SINDUTAN",
+        "kepadatan_industri": 0.73,
+        "kepadatan_penduduk": 820.13,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "PALIHAN",
+        "kepadatan_industri": 0.53,
+        "kepadatan_penduduk": 647.06,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "GLAGAH",
+        "kepadatan_industri": 0.82,
+        "kepadatan_penduduk": 498.5,
+        "total_skor": 2.1,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KALIDENGEN",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 892.05,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PLUMBON",
+        "kepadatan_industri": 0.97,
+        "kepadatan_penduduk": 795.17,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "KEDUNDANG",
+        "kepadatan_industri": 0.63,
+        "kepadatan_penduduk": 1555.17,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "DEMEN",
+        "kepadatan_industri": 1.07,
+        "kepadatan_penduduk": 1563.82,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "KULUR",
+        "kepadatan_industri": 1.29,
+        "kepadatan_penduduk": 1252.12,
+        "total_skor": 3.1,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "KALIGINTUNG",
+        "kepadatan_industri": 0.32,
+        "kepadatan_penduduk": 575.13,
+        "total_skor": 2.1,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "TEMON WETAN",
+        "kepadatan_industri": 0.56,
+        "kepadatan_penduduk": 892.86,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "TEMON KULON",
+        "kepadatan_industri": 1.17,
+        "kepadatan_penduduk": 1046.34,
+        "total_skor": 3.1,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "KEBONREJO",
+        "kepadatan_industri": 0.64,
+        "kepadatan_penduduk": 942.9,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "JANTEN",
+        "kepadatan_industri": 1.37,
+        "kepadatan_penduduk": 896.84,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "KARANGWULUH",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 693.74,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "WATES",
+        "kepadatan_industri": 0.37,
+        "kepadatan_penduduk": 5284.92,
+        "total_skor": 2.8,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "KARANGWUNI",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 405.86,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SOGAN",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 808.14,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KULWARU",
+        "kepadatan_industri": 0.39,
+        "kepadatan_penduduk": 1163.3,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "NGESTIHARJO",
+        "kepadatan_industri": 0.21,
+        "kepadatan_penduduk": 766.55,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BENDUNGAN",
+        "kepadatan_industri": 7.17,
+        "kepadatan_penduduk": 1439.21,
+        "total_skor": 4.1,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TRIHARJO",
+        "kepadatan_industri": 1.3,
+        "kepadatan_penduduk": 1085.4,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "GIRIPENI",
+        "kepadatan_industri": 1.51,
+        "kepadatan_penduduk": 2468.86,
+        "total_skor": 3.4,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "GARONGAN",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 570.29,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PLERET",
+        "kepadatan_industri": 0.17,
+        "kepadatan_penduduk": 827.59,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BUGEL",
+        "kepadatan_industri": 0.45,
+        "kepadatan_penduduk": 669.53,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KANOMAN",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 882.53,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "DEPOK",
+        "kepadatan_industri": 0.79,
+        "kepadatan_penduduk": 1227.07,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "BOJONG",
+        "kepadatan_industri": 0.26,
+        "kepadatan_penduduk": 1140.66,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "TAYUBAN",
+        "kepadatan_industri": 0.88,
+        "kepadatan_penduduk": 1047.37,
+        "total_skor": 2.6,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "GOTAKAN",
+        "kepadatan_industri": 0.3,
+        "kepadatan_penduduk": 936.22,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PANJATAN",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 1220.01,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "CERME",
+        "kepadatan_industri": 0.47,
+        "kepadatan_penduduk": 882.64,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KREMBANGAN",
+        "kepadatan_industri": 0.59,
+        "kepadatan_penduduk": 1071.01,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "BANARAN",
+        "kepadatan_industri": 0.38,
+        "kepadatan_penduduk": 706.7,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KRANGGAN",
+        "kepadatan_industri": 0.95,
+        "kepadatan_penduduk": 1244.04,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "NOMPOREJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 1235.5,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KARANGSEWU",
+        "kepadatan_industri": 0.52,
+        "kepadatan_penduduk": 881.15,
+        "total_skor": 2.2,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "TIRTORAHAYU",
+        "kepadatan_industri": 0.18,
+        "kepadatan_penduduk": 1307.21,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PANDOWAN",
+        "kepadatan_industri": 2.86,
+        "kepadatan_penduduk": 1487.73,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "BROSOT",
+        "kepadatan_industri": 2.24,
+        "kepadatan_penduduk": 1560.19,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "WAHYUHARJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 1111.72,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BUMIREJO",
+        "kepadatan_industri": 0.56,
+        "kepadatan_penduduk": 1050.71,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "JATIREJO",
+        "kepadatan_industri": 0.48,
+        "kepadatan_penduduk": 1118.6,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SIDOREJO",
+        "kepadatan_industri": 0.47,
+        "kepadatan_penduduk": 645.83,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "GULUREJO",
+        "kepadatan_industri": 0.18,
+        "kepadatan_penduduk": 1395.54,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "NGENTAKREJO",
+        "kepadatan_industri": 1.65,
+        "kepadatan_penduduk": 1113.17,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "DEMANGREJO",
+        "kepadatan_industri": 0.28,
+        "kepadatan_penduduk": 944.11,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SRIKAYANGAN",
+        "kepadatan_industri": 0.27,
+        "kepadatan_penduduk": 718.34,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "TUKSONO",
+        "kepadatan_industri": 0.09,
+        "kepadatan_penduduk": 790.54,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SALAMREJO",
+        "kepadatan_industri": 1.61,
+        "kepadatan_penduduk": 1345.6,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SUKORENO",
+        "kepadatan_industri": 0.68,
+        "kepadatan_penduduk": 836.47,
+        "total_skor": 2.6,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "KALIAGUNG",
+        "kepadatan_industri": 0.65,
+        "kepadatan_penduduk": 822.88,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SENTOLO",
+        "kepadatan_industri": 2.99,
+        "kepadatan_penduduk": 1595.13,
+        "total_skor": 3.4,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "BANGUNCIPTO",
+        "kepadatan_industri": 0.6,
+        "kepadatan_penduduk": 787.18,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "TAWANGSARI",
+        "kepadatan_industri": 0.5,
+        "kepadatan_penduduk": 313.16,
+        "total_skor": 2.2,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "KARANGSARI",
+        "kepadatan_industri": 0.57,
+        "kepadatan_penduduk": 1262.46,
+        "total_skor": 2.1,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KEDUNGSARI",
+        "kepadatan_industri": 1.17,
+        "kepadatan_penduduk": 907.65,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "MARGOSARI",
+        "kepadatan_industri": 1.22,
+        "kepadatan_penduduk": 1508.82,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "PENGASIH",
+        "kepadatan_industri": 1.82,
+        "kepadatan_penduduk": 1388.67,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SENDANGSARI",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 774.6,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SIDOMULYO",
+        "kepadatan_industri": 0.29,
+        "kepadatan_penduduk": 394.41,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "HARGOMULYO",
+        "kepadatan_industri": 0.16,
+        "kepadatan_penduduk": 653.79,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "HARGOREJO",
+        "kepadatan_industri": 0.22,
+        "kepadatan_penduduk": 522.58,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "HARGOWILIS",
+        "kepadatan_industri": 0.28,
+        "kepadatan_penduduk": 456.42,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KALIREJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 399.51,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "HARGOTIRTO",
+        "kepadatan_industri": 0.25,
+        "kepadatan_penduduk": 594.46,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "JATIMULYO",
+        "kepadatan_industri": 0.06,
+        "kepadatan_penduduk": 464.11,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRIPURWO",
+        "kepadatan_industri": 0.07,
+        "kepadatan_penduduk": 260.55,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PENDOWOREJO",
+        "kepadatan_industri": 0.33,
+        "kepadatan_penduduk": 634.85,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PURWOSARI",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 339.59,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BANYUROTO",
+        "kepadatan_industri": 0.12,
+        "kepadatan_penduduk": 511.68,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "DONOMULYO",
+        "kepadatan_industri": 0.29,
+        "kepadatan_penduduk": 633.81,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "WIJIMULYO",
+        "kepadatan_industri": 0.62,
+        "kepadatan_penduduk": 850.84,
+        "total_skor": 2.3,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "TANJUNGHARJO",
+        "kepadatan_industri": 0.37,
+        "kepadatan_penduduk": 860.51,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "JATISARONO",
+        "kepadatan_industri": 2.78,
+        "kepadatan_penduduk": 1190.88,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "KEMBANG",
+        "kepadatan_industri": 0.44,
+        "kepadatan_penduduk": 1098.36,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KEBONHARJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 323.96,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BANJARSARI",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 311.17,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PURWOHARJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 348.14,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SIDOHARJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 314.49,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GERBOSARI",
+        "kepadatan_industri": 0.18,
+        "kepadatan_penduduk": 440.94,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "NGARGOSARI",
+        "kepadatan_industri": 0.28,
+        "kepadatan_penduduk": 589.89,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PAGERHARJO",
+        "kepadatan_industri": 0.19,
+        "kepadatan_penduduk": 490.47,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BANJARARUM",
+        "kepadatan_industri": 0.28,
+        "kepadatan_penduduk": 875.9,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BANJARASRI",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 428.97,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BANJARHARJO",
+        "kepadatan_industri": 0.16,
+        "kepadatan_penduduk": 601.13,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BANJAROYO",
+        "kepadatan_industri": 0.19,
+        "kepadatan_penduduk": 562.08,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PONCOSARI",
+        "kepadatan_industri": 0.52,
+        "kepadatan_penduduk": 975.49,
+        "total_skor": 2.3,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "TRIMURTI",
+        "kepadatan_industri": 5.47,
+        "kepadatan_penduduk": 2754.92,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "GADINGSARI",
+        "kepadatan_industri": 0.39,
+        "kepadatan_penduduk": 1308.5,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "GADINGHARJO",
+        "kepadatan_industri": 0.32,
+        "kepadatan_penduduk": 1220.75,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SRIGADING",
+        "kepadatan_industri": 0.4,
+        "kepadatan_penduduk": 1281.48,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "MURTIGADING",
+        "kepadatan_industri": 1.19,
+        "kepadatan_penduduk": 1690.17,
+        "total_skor": 3.1,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "TIRTOMULYO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 1819.05,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PARANGTRITIS",
+        "kepadatan_industri": 0.09,
+        "kepadatan_penduduk": 718.07,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "DONOTIRTO",
+        "kepadatan_industri": 1.09,
+        "kepadatan_penduduk": 1846.95,
+        "total_skor": 3.1,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "TIRTOSARI",
+        "kepadatan_industri": 0.66,
+        "kepadatan_penduduk": 1467.64,
+        "total_skor": 2.2,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "TIRTOHARGO",
+        "kepadatan_industri": 0.25,
+        "kepadatan_penduduk": 743.15,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SELOHARJO",
+        "kepadatan_industri": 0.19,
+        "kepadatan_penduduk": 1098.21,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PANJANGREJO",
+        "kepadatan_industri": 1.73,
+        "kepadatan_penduduk": 1870.66,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SRIHARDONO",
+        "kepadatan_industri": 1.79,
+        "kepadatan_penduduk": 1966.4,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SIDOMULYO",
+        "kepadatan_industri": 1.46,
+        "kepadatan_penduduk": 1686.69,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "MULYODADI",
+        "kepadatan_industri": 0.95,
+        "kepadatan_penduduk": 1899.55,
+        "total_skor": 2.7,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SUMBERMULYO",
+        "kepadatan_industri": 1.04,
+        "kepadatan_penduduk": 1846.54,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "CATUHARJO",
+        "kepadatan_industri": 2.01,
+        "kepadatan_penduduk": 2118.84,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "TRIHARJO",
+        "kepadatan_industri": 1.42,
+        "kepadatan_penduduk": 2342.29,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "GILANGHARJO",
+        "kepadatan_industri": 2.37,
+        "kepadatan_penduduk": 2101.89,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "WIJIREJO",
+        "kepadatan_industri": 10.72,
+        "kepadatan_penduduk": 2543.28,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TRIWIDADI",
+        "kepadatan_industri": 0.81,
+        "kepadatan_penduduk": 873.95,
+        "total_skor": 2.3,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SENDANGSARI",
+        "kepadatan_industri": 2.02,
+        "kepadatan_penduduk": 1061.2,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "GUWOSARI",
+        "kepadatan_industri": 2.7,
+        "kepadatan_penduduk": 1586.57,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "PALBAPANG",
+        "kepadatan_industri": 1.75,
+        "kepadatan_penduduk": 2676.3,
+        "total_skor": 3.7,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "RINGINHARJO",
+        "kepadatan_industri": 3,
+        "kepadatan_penduduk": 3112.84,
+        "total_skor": 4.1,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "BANTUL",
+        "kepadatan_industri": 6.79,
+        "kepadatan_penduduk": 3304.39,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TRIRENGGO",
+        "kepadatan_industri": 4.28,
+        "kepadatan_penduduk": 3026.06,
+        "total_skor": 4.1,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SABDODADI",
+        "kepadatan_industri": 9.43,
+        "kepadatan_penduduk": 3463.37,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PATALAN",
+        "kepadatan_industri": 3.59,
+        "kepadatan_penduduk": 2085.68,
+        "total_skor": 3.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "CANDEN",
+        "kepadatan_industri": 1.12,
+        "kepadatan_penduduk": 2264.74,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SUMBERAGUNG",
+        "kepadatan_industri": 1.69,
+        "kepadatan_penduduk": 2020.62,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "TRIMULYO",
+        "kepadatan_industri": 2.99,
+        "kepadatan_penduduk": 2916.86,
+        "total_skor": 3.6,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SELOPAMIORO",
+        "kepadatan_industri": 0.39,
+        "kepadatan_penduduk": 715.17,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SRIHARJO",
+        "kepadatan_industri": 2.17,
+        "kepadatan_penduduk": 1581.03,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "WUKIRSARI",
+        "kepadatan_industri": 2.46,
+        "kepadatan_penduduk": 1017.2,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "KEBONAGUNG",
+        "kepadatan_industri": 1.33,
+        "kepadatan_penduduk": 2591.14,
+        "total_skor": 3.6,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "KARANGTENGAH",
+        "kepadatan_industri": 0.89,
+        "kepadatan_penduduk": 951.09,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "GIRIREJO",
+        "kepadatan_industri": 4.66,
+        "kepadatan_penduduk": 1255.63,
+        "total_skor": 3.6,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "KARANGTALUN",
+        "kepadatan_industri": 5.78,
+        "kepadatan_penduduk": 2223.65,
+        "total_skor": 4.4,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "IMOGIRI",
+        "kepadatan_industri": 0.87,
+        "kepadatan_penduduk": 3710.69,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "MANGUNAN",
+        "kepadatan_industri": 0.36,
+        "kepadatan_penduduk": 426.42,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "MUNTUK",
+        "kepadatan_industri": 0.39,
+        "kepadatan_penduduk": 667.79,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "DLINGO",
+        "kepadatan_industri": 0.21,
+        "kepadatan_penduduk": 612.08,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "TEMUWUH",
+        "kepadatan_industri": 0.14,
+        "kepadatan_penduduk": 1015.52,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "TERONG",
+        "kepadatan_industri": 0.23,
+        "kepadatan_penduduk": 640.9,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "JATIMULYO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 729.67,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BATURETNO",
+        "kepadatan_industri": 13.22,
+        "kepadatan_penduduk": 4273.5,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "BANGUNTAPAN",
+        "kepadatan_industri": 10.51,
+        "kepadatan_penduduk": 6839.65,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "JAGALAN",
+        "kepadatan_industri": 14.61,
+        "kepadatan_penduduk": 1506.27,
+        "total_skor": 4.4,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SINGOSAREN",
+        "kepadatan_industri": 8.57,
+        "kepadatan_penduduk": 3671.42,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "JAMBIDAN",
+        "kepadatan_industri": 3.37,
+        "kepadatan_penduduk": 2846.6,
+        "total_skor": 4,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "POTORONO",
+        "kepadatan_industri": 5.43,
+        "kepadatan_penduduk": 3325.52,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TAMANAN",
+        "kepadatan_industri": 7.23,
+        "kepadatan_penduduk": 3353.45,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "WIROKERTEN",
+        "kepadatan_industri": 7.8,
+        "kepadatan_penduduk": 3306.04,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "WONOKROMO",
+        "kepadatan_industri": 3.8,
+        "kepadatan_penduduk": 3604.71,
+        "total_skor": 4.2,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PLERET",
+        "kepadatan_industri": 2.53,
+        "kepadatan_penduduk": 2826.74,
+        "total_skor": 3.6,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SEGOROYOSO",
+        "kepadatan_industri": 1.18,
+        "kepadatan_penduduk": 1507.82,
+        "total_skor": 3.4,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "BAWURAN",
+        "kepadatan_industri": 0.76,
+        "kepadatan_penduduk": 1624.24,
+        "total_skor": 2.8,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "WONOLELO",
+        "kepadatan_industri": 0.18,
+        "kepadatan_penduduk": 878.03,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SITIMULYO",
+        "kepadatan_industri": 1.2,
+        "kepadatan_penduduk": 1758.79,
+        "total_skor": 3.1,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SRIMULYO",
+        "kepadatan_industri": 1.11,
+        "kepadatan_penduduk": 1226.25,
+        "total_skor": 2.7,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SRIMARTANI",
+        "kepadatan_industri": 1.44,
+        "kepadatan_penduduk": 1866.8,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "PENDOWOHARJO",
+        "kepadatan_industri": 5.94,
+        "kepadatan_penduduk": 3392.79,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TIMBULHARJO",
+        "kepadatan_industri": 4.45,
+        "kepadatan_penduduk": 2589.32,
+        "total_skor": 4.1,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "BANGUNHARJO",
+        "kepadatan_industri": 9.79,
+        "kepadatan_penduduk": 3705.85,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PANGGUNGHARJO",
+        "kepadatan_industri": 14.95,
+        "kepadatan_penduduk": 5145.12,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "BANGUJIWO",
+        "kepadatan_industri": 5.68,
+        "kepadatan_penduduk": 1809.98,
+        "total_skor": 4.3,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TIRTONIRMOLO",
+        "kepadatan_industri": 13.65,
+        "kepadatan_penduduk": 4071.44,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TAMANTIRTO",
+        "kepadatan_industri": 11.65,
+        "kepadatan_penduduk": 3543.23,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "NGESTIHARJO",
+        "kepadatan_industri": 27.54,
+        "kepadatan_penduduk": 12196.71,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "ARGODADI",
+        "kepadatan_industri": 0.62,
+        "kepadatan_penduduk": 1035.26,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "ARGOREJO",
+        "kepadatan_industri": 1.41,
+        "kepadatan_penduduk": 1594.33,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "ARGOSARI",
+        "kepadatan_industri": 0.88,
+        "kepadatan_penduduk": 1607.28,
+        "total_skor": 2.6,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "ARGOMULYO",
+        "kepadatan_industri": 2.02,
+        "kepadatan_penduduk": 1503.63,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "WONOSARI",
+        "kepadatan_industri": 6.07,
+        "kepadatan_penduduk": 2540.29,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "KEPEK",
+        "kepadatan_industri": 2.24,
+        "kepadatan_penduduk": 1408.7,
+        "total_skor": 3.1,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "PIYAMAN",
+        "kepadatan_industri": 1.4,
+        "kepadatan_penduduk": 1373.79,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "GARI",
+        "kepadatan_industri": 0.65,
+        "kepadatan_penduduk": 1062,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "KARANGTENGAH",
+        "kepadatan_industri": 1.09,
+        "kepadatan_penduduk": 3198.15,
+        "total_skor": 3.5,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SELANG",
+        "kepadatan_industri": 1.28,
+        "kepadatan_penduduk": 1543.03,
+        "total_skor": 3.4,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "BALEHARJO",
+        "kepadatan_industri": 2.18,
+        "kepadatan_penduduk": 1556.71,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SIRAMAN",
+        "kepadatan_industri": 0.98,
+        "kepadatan_penduduk": 1461.09,
+        "total_skor": 2.6,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "PULUTAN",
+        "kepadatan_industri": 0.71,
+        "kepadatan_penduduk": 615.25,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "WARENG",
+        "kepadatan_industri": 0.32,
+        "kepadatan_penduduk": 682.2,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "DUWET",
+        "kepadatan_industri": 0.22,
+        "kepadatan_penduduk": 569.43,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "MULO",
+        "kepadatan_industri": 0.46,
+        "kepadatan_penduduk": 789.23,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "WUNUNG",
+        "kepadatan_industri": 0.1,
+        "kepadatan_penduduk": 358.69,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KARANGREJEK",
+        "kepadatan_industri": 1.84,
+        "kepadatan_penduduk": 1344.12,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "NATAH",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 490.72,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PILANGREJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 366.01,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KEDUNGPOH",
+        "kepadatan_industri": 0.08,
+        "kepadatan_penduduk": 513.05,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PENGKOL",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 719.58,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KEDUNGKERIS",
+        "kepadatan_industri": 0.28,
+        "kepadatan_penduduk": 438.15,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "NGLIPAR",
+        "kepadatan_industri": 0.15,
+        "kepadatan_penduduk": 332.14,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KATONGAN",
+        "kepadatan_industri": 0.07,
+        "kepadatan_penduduk": 375.51,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BANYUSOCO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 315.92,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PLEMBUTAN",
+        "kepadatan_industri": 0.16,
+        "kepadatan_penduduk": 782.62,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BLEBERAN",
+        "kepadatan_industri": 0.13,
+        "kepadatan_penduduk": 349.4,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GETAS",
+        "kepadatan_industri": 0.12,
+        "kepadatan_penduduk": 668.75,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "DENGOK",
+        "kepadatan_industri": 0.25,
+        "kepadatan_penduduk": 650.45,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "NGUNUT",
+        "kepadatan_industri": 0.97,
+        "kepadatan_penduduk": 736.56,
+        "total_skor": 2.3,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "PLAYEN",
+        "kepadatan_industri": 0.63,
+        "kepadatan_penduduk": 898.54,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "NGAWU",
+        "kepadatan_industri": 1.22,
+        "kepadatan_penduduk": 997.23,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "BANDUNG",
+        "kepadatan_industri": 0.6,
+        "kepadatan_penduduk": 343.04,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "LOGANDENG",
+        "kepadatan_industri": 1.95,
+        "kepadatan_penduduk": 1421.01,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "GADING",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 628.62,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BANARAN",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 560.22,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "NGLERI",
+        "kepadatan_industri": 1.08,
+        "kepadatan_penduduk": 753.64,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "BUNDER",
+        "kepadatan_industri": 0.39,
+        "kepadatan_penduduk": 339.55,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BEJI",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 351.31,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PENGKOK",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 732.92,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SEMOYO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 438.76,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SALAM",
+        "kepadatan_industri": 0.43,
+        "kepadatan_penduduk": 691.25,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PATUK",
+        "kepadatan_industri": 2.52,
+        "kepadatan_penduduk": 1034.9,
+        "total_skor": 2.6,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "NGORO-ORO",
+        "kepadatan_industri": 0.5,
+        "kepadatan_penduduk": 451.97,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "NGLANGGERAN",
+        "kepadatan_industri": 0.13,
+        "kepadatan_penduduk": 329.3,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PUTAT",
+        "kepadatan_industri": 0.49,
+        "kepadatan_penduduk": 512.02,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "NGLEGI",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 368.62,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "TERBAH",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 459.54,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SODO",
+        "kepadatan_industri": 1.21,
+        "kepadatan_penduduk": 2911.21,
+        "total_skor": 3.6,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "PAMPANG",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 590,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "GROGOL",
+        "kepadatan_industri": 0.21,
+        "kepadatan_penduduk": 512.38,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KARANGDUWET",
+        "kepadatan_industri": 0.12,
+        "kepadatan_penduduk": 402.83,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KARANGASEM",
+        "kepadatan_industri": 0.71,
+        "kepadatan_penduduk": 584.93,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "MULUSAN",
+        "kepadatan_industri": 0.17,
+        "kepadatan_penduduk": 914.21,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "GIRING",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 250.29,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRIKARTO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 303.79,
+        "total_skor": 1.1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRISEKAR",
+        "kepadatan_industri": 0.25,
+        "kepadatan_penduduk": 474.84,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRIMULYO",
+        "kepadatan_industri": 0.08,
+        "kepadatan_penduduk": 454.15,
+        "total_skor": 1.1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRIWUNGU",
+        "kepadatan_industri": 0.06,
+        "kepadatan_penduduk": 162.58,
+        "total_skor": 1.1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRIHARJO",
+        "kepadatan_industri": 0.16,
+        "kepadatan_penduduk": 314.02,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRISUKO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 198.31,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRIPANGGUNG",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 356.6,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SUMBERWUNGU",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 319.19,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SIDOHARJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 610.39,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "TEPUS",
+        "kepadatan_industri": 0.07,
+        "kepadatan_penduduk": 321.85,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PURWODADI",
+        "kepadatan_industri": 0.05,
+        "kepadatan_penduduk": 364.51,
+        "total_skor": 1.1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "NGEPOSARI",
+        "kepadatan_industri": 1.09,
+        "kepadatan_penduduk": 803.78,
+        "total_skor": 2.7,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SEMANU",
+        "kepadatan_industri": 0.65,
+        "kepadatan_penduduk": 1003.77,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "PACAREJO",
+        "kepadatan_industri": 0.07,
+        "kepadatan_penduduk": 614.7,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "CANDIREJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 375.17,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "DADAPAYU",
+        "kepadatan_industri": 0.18,
+        "kepadatan_penduduk": 343.14,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BEJIHARJO",
+        "kepadatan_industri": 0.37,
+        "kepadatan_penduduk": 861.17,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "WILADEG",
+        "kepadatan_industri": 0.2,
+        "kepadatan_penduduk": 899.1,
+        "total_skor": 1.9,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BENDUNGAN",
+        "kepadatan_industri": 0.92,
+        "kepadatan_penduduk": 519.84,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "KELOR",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 552.48,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "NGIPAK",
+        "kepadatan_industri": 0.25,
+        "kepadatan_penduduk": 887.91,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KARANGMOJO",
+        "kepadatan_industri": 1.02,
+        "kepadatan_penduduk": 1014.5,
+        "total_skor": 2.8,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "GEDANGREJO",
+        "kepadatan_industri": 0.6,
+        "kepadatan_penduduk": 946.86,
+        "total_skor": 2.3,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "NGAWIS",
+        "kepadatan_industri": 0.41,
+        "kepadatan_penduduk": 563.67,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "JATIAYU",
+        "kepadatan_industri": 0.2,
+        "kepadatan_penduduk": 512.75,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "UMBULREJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 513.12,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SAWAHAN",
+        "kepadatan_industri": 0.16,
+        "kepadatan_penduduk": 446.11,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "TAMBAKROMO",
+        "kepadatan_industri": 0.12,
+        "kepadatan_penduduk": 504.38,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KENTENG",
+        "kepadatan_industri": 0.11,
+        "kepadatan_penduduk": 369.65,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SUMBERGIRI",
+        "kepadatan_industri": 0.09,
+        "kepadatan_penduduk": 441.28,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GENJAHAN",
+        "kepadatan_industri": 0.18,
+        "kepadatan_penduduk": 1060.03,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PONJONG",
+        "kepadatan_industri": 0.3,
+        "kepadatan_penduduk": 755.09,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KARANGASEM",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 282.05,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BEDOYO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 457.12,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SIDOREJO",
+        "kepadatan_industri": 0.12,
+        "kepadatan_penduduk": 1124.28,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "GOMBANG",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 391.25,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BOHOL",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 191.79,
+        "total_skor": 1.1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PRINGOMBO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 559.44,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BOTODAYAAN",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 391.83,
+        "total_skor": 1.1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PETIR",
+        "kepadatan_industri": 0.09,
+        "kepadatan_penduduk": 320.49,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PUCANGANOM",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 332.43,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SEMUGIH",
+        "kepadatan_industri": 0.09,
+        "kepadatan_penduduk": 421.62,
+        "total_skor": 1.1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "MELIKAN",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 301.09,
+        "total_skor": 1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KARANGWUNI",
+        "kepadatan_industri": 0.26,
+        "kepadatan_penduduk": 1001.63,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KALITEKUK",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 435.78,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KEMEJING",
+        "kepadatan_industri": 0.21,
+        "kepadatan_penduduk": 823.66,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BULUREJO",
+        "kepadatan_industri": 0.43,
+        "kepadatan_penduduk": 1597.42,
+        "total_skor": 2.2,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SUMBEREJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 683.56,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BENDUNG",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 969.08,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "CANDIREJO",
+        "kepadatan_industri": 0.08,
+        "kepadatan_penduduk": 597.67,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "REJOSARI",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 484.74,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KARANGSARI",
+        "kepadatan_industri": 0.17,
+        "kepadatan_penduduk": 1015.02,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PUNDUNGSARI",
+        "kepadatan_industri": 0.14,
+        "kepadatan_penduduk": 638.67,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SEMIN",
+        "kepadatan_industri": 0.57,
+        "kepadatan_penduduk": 807.52,
+        "total_skor": 2.3,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "TANCEP",
+        "kepadatan_industri": 0.39,
+        "kepadatan_penduduk": 772.98,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SAMBIREJO",
+        "kepadatan_industri": 0.51,
+        "kepadatan_penduduk": 776.05,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "JURANGJERO",
+        "kepadatan_industri": 0.15,
+        "kepadatan_penduduk": 703.43,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KAMPUNG",
+        "kepadatan_industri": 0.54,
+        "kepadatan_penduduk": 727.74,
+        "total_skor": 2.1,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BEJI",
+        "kepadatan_industri": 0.21,
+        "kepadatan_penduduk": 885.49,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "WATUSIGAR",
+        "kepadatan_industri": 0.13,
+        "kepadatan_penduduk": 711.93,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "HARGOMULYO",
+        "kepadatan_industri": 0.09,
+        "kepadatan_penduduk": 644.29,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "MERTELU",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 406.08,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "WATUGAJAH",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 524.91,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SAMPANG",
+        "kepadatan_industri": 0.16,
+        "kepadatan_penduduk": 493.49,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SERUT",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 664.98,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "NGALANG",
+        "kepadatan_industri": 0.13,
+        "kepadatan_penduduk": 572.03,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "TEGALREJO",
+        "kepadatan_industri": 0.59,
+        "kepadatan_penduduk": 765.27,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KRAMBILSAWIT",
+        "kepadatan_industri": 0.05,
+        "kepadatan_penduduk": 344.02,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "NGLORO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 610.22,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "JETIS",
+        "kepadatan_industri": 0.1,
+        "kepadatan_penduduk": 539.33,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KEPEK",
+        "kepadatan_industri": 0.56,
+        "kepadatan_penduduk": 1733.75,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "KANIGORO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 239.12,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "MONGGOL",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 578.47,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PLANJAN",
+        "kepadatan_industri": 0.08,
+        "kepadatan_penduduk": 544.19,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "BALONG",
+        "kepadatan_industri": 0.09,
+        "kepadatan_penduduk": 340.9,
+        "total_skor": 1.1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "JEPITU",
+        "kepadatan_industri": 0.06,
+        "kepadatan_penduduk": 249.94,
+        "total_skor": 1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KARANGAWEN",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 219.5,
+        "total_skor": 1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "NGLINDUR",
+        "kepadatan_industri": 0.16,
+        "kepadatan_penduduk": 455.99,
+        "total_skor": 1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "JERUKWUDEL",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 364.75,
+        "total_skor": 1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "TILENG",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 295.03,
+        "total_skor": 1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "PUCUNG",
+        "kepadatan_industri": 0.07,
+        "kepadatan_penduduk": 231.54,
+        "total_skor": 1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SONGBANYU",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 187.66,
+        "total_skor": 1,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "HARGOSARI",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 649.95,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KEMIRI",
+        "kepadatan_industri": 0.18,
+        "kepadatan_penduduk": 431.02,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "KEMADANG",
+        "kepadatan_industri": 0.24,
+        "kepadatan_penduduk": 430.36,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BANJAREJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 340.47,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "NGESTIREJO",
+        "kepadatan_industri": 0.07,
+        "kepadatan_penduduk": 384.88,
+        "total_skor": 1.2,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRIPURWO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 559.05,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRICAHYO",
+        "kepadatan_industri": 0.07,
+        "kepadatan_penduduk": 287.22,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GIRIJATI",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 256.9,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "GIRIASIH",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 283.79,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "GIRITIRTO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 350.46,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "BALECATUR",
+        "kepadatan_industri": 2.28,
+        "kepadatan_penduduk": 2112.47,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "AMBARKETAWANG",
+        "kepadatan_industri": 6.71,
+        "kepadatan_penduduk": 3157.77,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "BANYURADEN",
+        "kepadatan_industri": 7.43,
+        "kepadatan_penduduk": 3971.82,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "NOGOTIRTO",
+        "kepadatan_industri": 7.78,
+        "kepadatan_penduduk": 5435.75,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TRIHANGGO",
+        "kepadatan_industri": 6.38,
+        "kepadatan_penduduk": 3093.18,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SIDOREJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 1292.28,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "SIDOLUHUR",
+        "kepadatan_industri": 3.4,
+        "kepadatan_penduduk": 1907.14,
+        "total_skor": 3.8,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SIDOMULYO",
+        "kepadatan_industri": 0.67,
+        "kepadatan_penduduk": 2171.33,
+        "total_skor": 2.6,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SIDOAGUNG",
+        "kepadatan_industri": 1.91,
+        "kepadatan_penduduk": 3586.16,
+        "total_skor": 3.7,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SIDOKARTO",
+        "kepadatan_industri": 3.31,
+        "kepadatan_penduduk": 3211.09,
+        "total_skor": 4.1,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SIDOARUM",
+        "kepadatan_industri": 4.27,
+        "kepadatan_penduduk": 4437.6,
+        "total_skor": 4.1,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SIDOMOYO",
+        "kepadatan_industri": 4.25,
+        "kepadatan_penduduk": 2785.77,
+        "total_skor": 4.1,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SUMBERAHAYU",
+        "kepadatan_industri": 2.06,
+        "kepadatan_penduduk": 984.25,
+        "total_skor": 2.8,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SUMBERSARI",
+        "kepadatan_industri": 0.91,
+        "kepadatan_penduduk": 1492.02,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SUMBERAGUNG",
+        "kepadatan_industri": 1.6,
+        "kepadatan_penduduk": 1882.67,
+        "total_skor": 3.1,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SUMBERARUM",
+        "kepadatan_industri": 0.53,
+        "kepadatan_penduduk": 932.62,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SENDANGARUM",
+        "kepadatan_industri": 2.88,
+        "kepadatan_penduduk": 1067.11,
+        "total_skor": 2.8,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SENDANGMULYO",
+        "kepadatan_industri": 1.8,
+        "kepadatan_penduduk": 1034.51,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SENDANGAGUNG",
+        "kepadatan_industri": 1.78,
+        "kepadatan_penduduk": 1319.09,
+        "total_skor": 2.8,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SENDANGSARI",
+        "kepadatan_industri": 1.26,
+        "kepadatan_penduduk": 1072.33,
+        "total_skor": 2.7,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SENDANGREJO",
+        "kepadatan_industri": 1,
+        "kepadatan_penduduk": 1446.84,
+        "total_skor": 2.8,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "MARGOLUWIH",
+        "kepadatan_industri": 2.08,
+        "kepadatan_penduduk": 2004.58,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "MARGODADI",
+        "kepadatan_industri": 1.14,
+        "kepadatan_penduduk": 1503.68,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "MARGOKATON",
+        "kepadatan_industri": 0.6,
+        "kepadatan_penduduk": 1572.2,
+        "total_skor": 2.6,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "MARGOMULYO",
+        "kepadatan_industri": 1.56,
+        "kepadatan_penduduk": 2498.09,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "MARGOAGUNG",
+        "kepadatan_industri": 0.98,
+        "kepadatan_penduduk": 2024.82,
+        "total_skor": 2.6,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SINDUADI",
+        "kepadatan_industri": 13.16,
+        "kepadatan_penduduk": 4952.66,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SENDANGADI",
+        "kepadatan_industri": 5.97,
+        "kepadatan_penduduk": 3108.94,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TLOGOADI",
+        "kepadatan_industri": 3.18,
+        "kepadatan_penduduk": 2736.93,
+        "total_skor": 4.1,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TIRTOADI",
+        "kepadatan_industri": 3.28,
+        "kepadatan_penduduk": 2092.16,
+        "total_skor": 3.8,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SUMBERADI",
+        "kepadatan_industri": 1.73,
+        "kepadatan_penduduk": 2466.33,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "CATURTUNGGAL",
+        "kepadatan_industri": 15.12,
+        "kepadatan_penduduk": 4187.18,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "MAGUWOHARJO",
+        "kepadatan_industri": 6.38,
+        "kepadatan_penduduk": 2281.71,
+        "total_skor": 4.4,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "CONDONGCATUR",
+        "kepadatan_industri": 14.4,
+        "kepadatan_penduduk": 4752.91,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SENDANGTIRTO",
+        "kepadatan_industri": 6.75,
+        "kepadatan_penduduk": 3180.18,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TEGALTIRTO",
+        "kepadatan_industri": 3.1,
+        "kepadatan_penduduk": 2279.85,
+        "total_skor": 3.8,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "KALITIRTO",
+        "kepadatan_industri": 1.9,
+        "kepadatan_penduduk": 2159.06,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "JOGOTIRTO",
+        "kepadatan_industri": 2.35,
+        "kepadatan_penduduk": 1858.65,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SUMBERHARJO",
+        "kepadatan_industri": 0.82,
+        "kepadatan_penduduk": 1723.45,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "WUKIRHARJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 470.21,
+        "total_skor": 1.3,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "GAYAMHARJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 695.69,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "SAMBIREJO",
+        "kepadatan_industri": 0.12,
+        "kepadatan_penduduk": 716.61,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "MADUREJO",
+        "kepadatan_industri": 0.85,
+        "kepadatan_penduduk": 1940.03,
+        "total_skor": 2.7,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "BOKOHARJO",
+        "kepadatan_industri": 1.37,
+        "kepadatan_penduduk": 2426.45,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "PURWOMARTANI",
+        "kepadatan_industri": 5.54,
+        "kepadatan_penduduk": 3044.43,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TIRTOMARTANI",
+        "kepadatan_industri": 2.73,
+        "kepadatan_penduduk": 2376.61,
+        "total_skor": 3.4,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "TAMANMARTANI",
+        "kepadatan_industri": 1.82,
+        "kepadatan_penduduk": 2281.9,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SELOMARTANI",
+        "kepadatan_industri": 0.8,
+        "kepadatan_penduduk": 1481.15,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SINDUMARTANI",
+        "kepadatan_industri": 1.09,
+        "kepadatan_penduduk": 1457.54,
+        "total_skor": 2.8,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "BIMOMARTANI",
+        "kepadatan_industri": 0.5,
+        "kepadatan_penduduk": 1274.29,
+        "total_skor": 2.3,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "WIDODOMARTANI",
+        "kepadatan_industri": 0.95,
+        "kepadatan_penduduk": 1327.99,
+        "total_skor": 2.3,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "WEDOMARTANI",
+        "kepadatan_industri": 5.3,
+        "kepadatan_penduduk": 2190.89,
+        "total_skor": 4.3,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "UMBULMARTANI",
+        "kepadatan_industri": 2.56,
+        "kepadatan_penduduk": 1405.51,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SARIHARJO",
+        "kepadatan_industri": 8.5,
+        "kepadatan_penduduk": 3445.26,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "MINOMARTANI",
+        "kepadatan_industri": 21.43,
+        "kepadatan_penduduk": 7858.93,
+        "total_skor": 4.9,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SINDUHARJO",
+        "kepadatan_industri": 9.35,
+        "kepadatan_penduduk": 3087.53,
+        "total_skor": 4.6,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SUKOHARJO",
+        "kepadatan_industri": 4.5,
+        "kepadatan_penduduk": 1925.86,
+        "total_skor": 3.8,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "SARDONOHARJO",
+        "kepadatan_industri": 4.06,
+        "kepadatan_penduduk": 2121.87,
+        "total_skor": 3.8,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "DONOHARJO",
+        "kepadatan_industri": 1.38,
+        "kepadatan_penduduk": 1463.19,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "CATURHARJO",
+        "kepadatan_industri": 1.09,
+        "kepadatan_penduduk": 2003.99,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "TRIHARJO",
+        "kepadatan_industri": 1.78,
+        "kepadatan_penduduk": 4011.84,
+        "total_skor": 3.5,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "TRIDADI",
+        "kepadatan_industri": 5.08,
+        "kepadatan_penduduk": 3024.49,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PANDOWOHARJO",
+        "kepadatan_industri": 1.74,
+        "kepadatan_penduduk": 1614.36,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "TRIMULYO",
+        "kepadatan_industri": 1.21,
+        "kepadatan_penduduk": 1653.67,
+        "total_skor": 3.2,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "BANYUREJO",
+        "kepadatan_industri": 0.21,
+        "kepadatan_penduduk": 1598.37,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "TAMBAKREJO",
+        "kepadatan_industri": 0.9,
+        "kepadatan_penduduk": 1569.95,
+        "total_skor": 2.6,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "SUMBERREJO",
+        "kepadatan_industri": 0.67,
+        "kepadatan_penduduk": 1569.8,
+        "total_skor": 2.5,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "PONDOKREJO",
+        "kepadatan_industri": 0.32,
+        "kepadatan_penduduk": 2002.39,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "MOROREJO",
+        "kepadatan_industri": 1.24,
+        "kepadatan_penduduk": 1633.49,
+        "total_skor": 3.1,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "MARGOREJO",
+        "kepadatan_industri": 1.68,
+        "kepadatan_penduduk": 1995.63,
+        "total_skor": 3.1,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "LUMBUNGREJO",
+        "kepadatan_industri": 0.28,
+        "kepadatan_penduduk": 2171.43,
+        "total_skor": 2,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "MERDIKOREJO",
+        "kepadatan_industri": 1.21,
+        "kepadatan_penduduk": 1147.33,
+        "total_skor": 2.7,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "BANGUNKERTO",
+        "kepadatan_industri": 1.13,
+        "kepadatan_penduduk": 1311.3,
+        "total_skor": 2.7,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "DONOKERTO",
+        "kepadatan_industri": 1.25,
+        "kepadatan_penduduk": 1280.94,
+        "total_skor": 2.9,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "GIRIKERTO",
+        "kepadatan_industri": 0.35,
+        "kepadatan_penduduk": 732.31,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "WONOKERTO",
+        "kepadatan_industri": 0.42,
+        "kepadatan_penduduk": 735.91,
+        "total_skor": 1.7,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "PURWOBINANGUN",
+        "kepadatan_industri": 0.23,
+        "kepadatan_penduduk": 736.39,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "CANDIBINANGUN",
+        "kepadatan_industri": 1.2,
+        "kepadatan_penduduk": 985,
+        "total_skor": 3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "HARJOBINANGUN",
+        "kepadatan_industri": 0.91,
+        "kepadatan_penduduk": 1100.41,
+        "total_skor": 2.6,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "PAKEMBINANGUN",
+        "kepadatan_industri": 2.37,
+        "kepadatan_penduduk": 1554.56,
+        "total_skor": 3.3,
+        "klasifikasi": "Tinggi"
+    },
+    {
+        "DESA": "HARGOBINANGUN",
+        "kepadatan_industri": 0.29,
+        "kepadatan_penduduk": 369.11,
+        "total_skor": 1.5,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "ARGOMULYO",
+        "kepadatan_industri": 0.64,
+        "kepadatan_penduduk": 1013.78,
+        "total_skor": 2.3,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "WUKIRSARI",
+        "kepadatan_industri": 0.72,
+        "kepadatan_penduduk": 862.11,
+        "total_skor": 2.4,
+        "klasifikasi": "Sedang"
+    },
+    {
+        "DESA": "GLAGAHARJO",
+        "kepadatan_industri": 0.13,
+        "kepadatan_penduduk": 507.96,
+        "total_skor": 1.6,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KEPUHARJO",
+        "kepadatan_industri": 0,
+        "kepadatan_penduduk": 437.6,
+        "total_skor": 1.4,
+        "klasifikasi": "Sangat Rendah"
+    },
+    {
+        "DESA": "UMBULHARJO",
+        "kepadatan_industri": 0.11,
+        "kepadatan_penduduk": 552.39,
+        "total_skor": 1.8,
+        "klasifikasi": "Rendah"
+    },
+    {
+        "DESA": "KRICAK",
+        "kepadatan_industri": 10.06,
+        "kepadatan_penduduk": 14795.86,
+        "total_skor": 4.9,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "KARANGWARU",
+        "kepadatan_industri": 24.21,
+        "kepadatan_penduduk": 12459.38,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TEGALREJO",
+        "kepadatan_industri": 16.12,
+        "kepadatan_penduduk": 10596.26,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "BENER",
+        "kepadatan_industri": 20.7,
+        "kepadatan_penduduk": 7864.49,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "BUMIJO",
+        "kepadatan_industri": 17.46,
+        "kepadatan_penduduk": 16367.42,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "COKRODININGRATAN",
+        "kepadatan_industri": 29.87,
+        "kepadatan_penduduk": 13246.3,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "GOWONGAN",
+        "kepadatan_industri": 60.18,
+        "kepadatan_penduduk": 16475.4,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "DEMANGAN",
+        "kepadatan_industri": 20.61,
+        "kepadatan_penduduk": 12873.07,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "KOTABARU",
+        "kepadatan_industri": 23.97,
+        "kepadatan_penduduk": 3864.1,
+        "total_skor": 4.7,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "KLITREN",
+        "kepadatan_industri": 23.57,
+        "kepadatan_penduduk": 11318.95,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "BACIRO",
+        "kepadatan_industri": 30.08,
+        "kepadatan_penduduk": 11211.49,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TERBAN",
+        "kepadatan_industri": 29.31,
+        "kepadatan_penduduk": 11159.02,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SURYATMAJAN",
+        "kepadatan_industri": 99.77,
+        "kepadatan_penduduk": 14979.08,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TEGALPANGGUNG",
+        "kepadatan_industri": 20.38,
+        "kepadatan_penduduk": 31334.92,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "BAUSASRAN",
+        "kepadatan_industri": 33.15,
+        "kepadatan_penduduk": 15320.71,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SOSROMENDURAN",
+        "kepadatan_industri": 80.8,
+        "kepadatan_penduduk": 16810.68,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PRINGGOKUSUMAN",
+        "kepadatan_industri": 21.24,
+        "kepadatan_penduduk": 26304.5,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "NGAMPILAN",
+        "kepadatan_industri": 86.76,
+        "kepadatan_penduduk": 24336.37,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "NOTOPRAJAN",
+        "kepadatan_industri": 43.15,
+        "kepadatan_penduduk": 25300.54,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PAKUNCEN",
+        "kepadatan_industri": 22.2,
+        "kepadatan_penduduk": 14177.7,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "WIROBRAJAN",
+        "kepadatan_industri": 34.91,
+        "kepadatan_penduduk": 13617.92,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PATANGPULUHAN",
+        "kepadatan_industri": 37.19,
+        "kepadatan_penduduk": 20485.64,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "GEDONGKIWO",
+        "kepadatan_industri": 20.68,
+        "kepadatan_penduduk": 15272.02,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SURYODININGRATAN",
+        "kepadatan_industri": 35.6,
+        "kepadatan_penduduk": 12464.95,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "MANTRIJERON",
+        "kepadatan_industri": 54.82,
+        "kepadatan_penduduk": 10500.08,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PATEHAN",
+        "kepadatan_industri": 54.91,
+        "kepadatan_penduduk": 14734.66,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PANEMBAHAN",
+        "kepadatan_industri": 48.33,
+        "kepadatan_penduduk": 12367.44,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "KADIPATEN",
+        "kepadatan_industri": 59.83,
+        "kepadatan_penduduk": 15692.1,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "NGUPASAN",
+        "kepadatan_industri": 30.75,
+        "kepadatan_penduduk": 15850.52,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PRAWIRODIRJAN",
+        "kepadatan_industri": 76.57,
+        "kepadatan_penduduk": 14067.8,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PURWOKINANTI",
+        "kepadatan_industri": 41.86,
+        "kepadatan_penduduk": 18631.7,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "GUNUNGKETUR",
+        "kepadatan_industri": 45.07,
+        "kepadatan_penduduk": 14635.25,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "KEPARAKAN",
+        "kepadatan_industri": 23.8,
+        "kepadatan_penduduk": 23563.57,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "WIROGUNAN",
+        "kepadatan_industri": 36.53,
+        "kepadatan_penduduk": 10879.55,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "BRONTOKUSUMAN",
+        "kepadatan_industri": 25.74,
+        "kepadatan_penduduk": 10773.51,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SEMAKI",
+        "kepadatan_industri": 17.41,
+        "kepadatan_penduduk": 8255.12,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "MUJA MUJU",
+        "kepadatan_industri": 18.77,
+        "kepadatan_penduduk": 6769.98,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "TAHUNAN",
+        "kepadatan_industri": 17.49,
+        "kepadatan_penduduk": 12305.44,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "WARUNGBOTO",
+        "kepadatan_industri": 29.95,
+        "kepadatan_penduduk": 11895.46,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PANDEYAN",
+        "kepadatan_industri": 18.95,
+        "kepadatan_penduduk": 8535.05,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "SOROSUTAN",
+        "kepadatan_industri": 22.21,
+        "kepadatan_penduduk": 9533.68,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "GIWANGAN",
+        "kepadatan_industri": 11.58,
+        "kepadatan_penduduk": 5705.79,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "REJOWINANGUN",
+        "kepadatan_industri": 22.39,
+        "kepadatan_penduduk": 9429.2,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PRENGGAN",
+        "kepadatan_industri": 36.44,
+        "kepadatan_penduduk": 11739.17,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    },
+    {
+        "DESA": "PURBAYAN",
+        "kepadatan_industri": 61.47,
+        "kepadatan_penduduk": 11578.56,
+        "total_skor": 5,
+        "klasifikasi": "Sangat Tinggi"
+    }
+]
