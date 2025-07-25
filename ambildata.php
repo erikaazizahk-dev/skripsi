@@ -1,7 +1,14 @@
 <?php
 include "koneksi.php";
 
-$result = mysqli_query($koneksi, "SELECT * FROM data__fix");
+// Query gabungan dari dua tabel: data__fix_1 dan data__fix_2
+$query = "
+    (SELECT * FROM data_fix_1)
+    UNION ALL
+    (SELECT * FROM data_fix_2)
+";
+
+$result = mysqli_query($koneksi, $query);
 
 $posts = array();
 if ($result && mysqli_num_rows($result) > 0) {
