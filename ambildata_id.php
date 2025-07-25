@@ -9,9 +9,9 @@ $posts = array();
 if ($id > 0) {
     // Query gabungan dari dua tabel: data_fix_1 dan data_fix_2
     $query = "
-        (SELECT * FROM data__fix_1 WHERE id_industri = ?)
+        (SELECT * FROM data_fix_1 WHERE id_industri = ?)
         UNION ALL
-        (SELECT * FROM data__fix_2 WHERE id_industri = ?)
+        (SELECT * FROM data_fix_2 WHERE id_industri = ?)
     ";
 
     $stmt = $koneksi->prepare($query);
