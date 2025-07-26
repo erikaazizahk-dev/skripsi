@@ -110,9 +110,28 @@ function applyFilter(selected) {
       let label = p[`klas_${selected}`] || p.ket_klas || "";
       return { color: "#000", weight: 1, fillColor: getColorByClass(label), fillOpacity: 0.7 };
     },
-    onEachFeature: function(f, layer) {
-      const p = f.properties;
-      let row = "";
+ onEachFeature: function(f, layer) {
+  const p = f.properties;
+  let row = "";
+  let popupContent = `<strong>Desa:</strong> ${p.Desa || p.DESA}<br>
+<strong>Kecamatan:</strong> ${p.kecamatan || p.KECAMATAN}<br>
+<strong>Kabupaten:</strong> ${p.kabupaten || p.KAB_KOTA}<br>`;
+
+if (selected === "industri") {
+  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_industri}`;
+} else if (selected === "penduduk") {
+  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_penduduk}`;
+} else if (selected === "transportasi") {
+  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_transportasi}`;
+} else if (selected === "pusat") {
+  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_pusat}`;
+} else if (selected === "weighted") {
+  popupContent += `<strong>Klasifikasi:</strong> ${p.ket_klas}`;
+}
+
+
+layer.bindPopup(popupContent);
+
       if (selected === "industri") {
         headers = `<th>Desa</th><th>Kecamatan</th><th>Kabupaten</th><th>Jumlah Industri</th><th>Kepadatan Industri</th><th>Klasifikasi</th>`;
         row = `<tr><td>${p.Desa}</td><td>${p.kecamatan}</td><td>${p.kabupaten}</td><td>${p.jml_industri}</td><td>${p.Industri}</td><td>${p.klas_industri}</td></tr>`;
