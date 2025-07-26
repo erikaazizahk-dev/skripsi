@@ -110,39 +110,25 @@ function applyFilter(selected) {
       let label = p[`klas_${selected}`] || p.ket_klas || "";
       return { color: "#000", weight: 1, fillColor: getColorByClass(label), fillOpacity: 0.7 };
     },
- let popupContent = `<div style="line-height:1.4">
-  <strong>Desa:</strong> ${p.Desa || p.DESA}<br>
-  <strong>Kecamatan:</strong> ${p.kecamatan || p.KECAMATAN}<br>
-  <strong>Kabupaten:</strong> ${p.kabupaten || p.KAB_KOTA}<br>`;
+ onEachFeature: function(f, layer) {
+  const p = f.properties;
+  let row = "";
+  let popupContent = `<strong>Desa:</strong> ${p.Desa || p.DESA}<br>
+<strong>Kecamatan:</strong> ${p.kecamatan || p.KECAMATAN}<br>
+<strong>Kabupaten:</strong> ${p.kabupaten || p.KAB_KOTA}<br>`;
 
 if (selected === "industri") {
-  popupContent += `
-    <strong>Klasifikasi:</strong> ${p.klas_industri}<br>
-    <strong>Nilai:</strong> ${p.nilai_industri?.toFixed(3) || p.Industri?.toFixed(3) || '-'}
-  `;
+  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_industri}`;
 } else if (selected === "penduduk") {
-  popupContent += `
-    <strong>Klasifikasi:</strong> ${p.klas_penduduk}<br>
-    <strong>Nilai:</strong> ${p.nilai_penduduk?.toFixed(3) || p.Penduduk?.toFixed(3) || '-'}
-  `;
+  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_penduduk}`;
 } else if (selected === "transportasi") {
-  popupContent += `
-    <strong>Klasifikasi:</strong> ${p.klas_transportasi}<br>
-    <strong>Nilai:</strong> ${p.nilai_transportasi?.toFixed(3) || p.Transportasi?.toFixed(3) || '-'}
-  `;
+  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_transportasi}`;
 } else if (selected === "pusat") {
-  popupContent += `
-    <strong>Klasifikasi:</strong> ${p.klas_pusat}<br>
-    <strong>Nilai:</strong> ${p.nilai_pusat?.toFixed(3) || p.Pusat?.toFixed(3) || '-'}
-  `;
+  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_pusat}`;
 } else if (selected === "weighted") {
-  popupContent += `
-    <strong>Klasifikasi:</strong> ${p.ket_klas}<br>
-    <strong>Nilai:</strong> ${p.nilai?.toFixed(3) || '-'}
-  `;
+  popupContent += `<strong>Klasifikasi:</strong> ${p.ket_klas}`;
 }
 
-popupContent += `</div>`;
 
 layer.bindPopup(popupContent);
 
