@@ -104,54 +104,66 @@ function applyFilter(selected) {
   const sourceData = selected === "weighted" ? weightedData : varData;
   let headers = "";
 
-  geojsonLayer = L.geoJSON(sourceData, {
-    style: function(f) {
-      const p = f.properties;
-      let label = p[`klas_${selected}`] || p.ket_klas || "";
-      return { color: "#000", weight: 1, fillColor: getColorByClass(label), fillOpacity: 0.7 };
-    },
- onEachFeature: function(f, layer) {
-  const p = f.properties;
-  let row = "";
-  let popupContent = `<strong>Desa:</strong> ${p.Desa || p.DESA}<br>
-<strong>Kecamatan:</strong> ${p.kecamatan || p.KECAMATAN}<br>
-<strong>Kabupaten:</strong> ${p.kabupaten || p.KAB_KOTA}<br>`;
+ geojsonLayer = L.geoJSON(sourceData, {
+  style: function(f) {
+    const p = f.properties;
+    let label = p[`klas_${selected}`] || p.ket_klas || "";
+    return { color: "#000", weight: 1, fillColor: getColorByClass(label), fillOpacity: 0.7 };
+  },
+  onEachFeature: function(feature, layer) {
+    const p = feature.properties;
+    let popupContent = `<div style="line-height:1.4">
+      <strong>Desa:</strong> ${p.Desa || p.DESA}<br>
+      <strong>Kecamatan:</strong> ${p.kecamatan || p.KECAMATAN}<br>
+      <strong>Kabupaten:</strong> ${p.kabupaten || p.KAB_KOTA}<br>`;
 
-if (selected === "industri") {
-  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_industri}`;
-} else if (selected === "penduduk") {
-  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_penduduk}`;
-} else if (selected === "transportasi") {
-  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_transportasi}`;
-} else if (selected === "pusat") {
-  popupContent += `<strong>Klasifikasi:</strong> ${p.klas_pusat}`;
-} else if (selected === "weighted") {
-  popupContent += `<strong>Klasifikasi:</strong> ${p.ket_klas}`;
-}
-
-
-layer.bindPopup(popupContent);
-
-      if (selected === "industri") {
-        headers = `<th>Desa</th><th>Kecamatan</th><th>Kabupaten</th><th>Jumlah Industri</th><th>Kepadatan Industri</th><th>Klasifikasi</th>`;
-        row = `<tr><td>${p.Desa}</td><td>${p.kecamatan}</td><td>${p.kabupaten}</td><td>${p.jml_industri}</td><td>${p.Industri}</td><td>${p.klas_industri}</td></tr>`;
-      } else if (selected === "penduduk") {
-        headers = `<th>Desa</th><th>Kecamatan</th><th>Kabupaten</th><th>Jumlah Penduduk</th><th>Kepadatan Penduduk</th><th>Klasifikasi</th>`;
-        row = `<tr><td>${p.Desa}</td><td>${p.kecamatan}</td><td>${p.kabupaten}</td><td>${p.jml_penduduk}</td><td>${p.Penduduk}</td><td>${p.klas_penduduk}</td></tr>`;
-      } else if (selected === "transportasi") {
-        headers = `<th>Desa</th><th>Kecamatan</th><th>Kabupaten</th><th>Klasifikasi</th>`;
-        row = `<tr><td>${p.Desa}</td><td>${p.kecamatan}</td><td>${p.kabupaten}</td><td>${p.klas_transportasi}</td></tr>`;
-      } else if (selected === "pusat") {
-        headers = `<th>Desa</th><th>Kecamatan</th><th>Kabupaten</th><th>Klasifikasi Jarak ke Pusat Kota</th>`;
-        row = `<tr><td>${p.Desa}</td><td>${p.kecamatan}</td><td>${p.kabupaten}</td><td>${p.klas_pusat}</td></tr>`;
-      } else if (selected === "weighted") {
-        headers = `<th>Desa</th><th>Kabupaten</th><th>Kecamatan</th><th>Hasil Klasifikasi</th>`;
-        row = `<tr><td>${p.DESA}</td><td>${p.KAB_KOTA}</td><td>${p.KECAMATAN}</td><td>${p.ket_klas}</td></tr>`;
-      }
-      document.querySelector("#data-table thead tr").innerHTML = headers;
-      document.getElementById("table-body").innerHTML += row;
+    if (selected === "industri") {
+      popupContent += `
+        <strong>Klasifikasi:</strong> ${p.klas_industri}<br>
+        <strong>Nilai:</strong> ${p.nilai_industri?.toFixed(3) || p.Industri?.toFixed(3) || '-'}
+      `;
+    } else if (selected === "penduduk") {
+      popupContent += `
+        <strong>Klasifikasi:</strong> ${p.klas_penduduk}<br>
+        <strong>Nilai:</strong> ${p.nilai_penduduk?.toFixed(3) || p.Penduduk?.toFixed(3) || '-'}
+      `;
+    } else if (selected === "transportasi") {
+      popupContent += `
+        <strong>Klasifikasi:</strong> ${p.klas_transportasi}<br>
+        <strong>Nilai:</strong> ${p.nilai_transportasi?.toFixed(3) || p.Transportasi?.toFixed(3) || '-'}
+      `;
+    } else if (selected === "pusat") {
+      popupContent += `
+        <strong>Klasifikasi:</strong> ${p.klas_pusat}<br>
+        <strong>Nilai:</strong> ${p.nilai_pusat?.toFixed(3) || p.Pusat?.toFixed(3) || '-'}
+      `;
+    } else if (selected === "weighted") {
+      popupContent += `
+        <strong>Klasifikasi:</strong> ${p.ket_klas}<br>
+        <strong>Nilai:</strong> ${p.nilai?.toFixed(3) || '-'}
+      `;
     }
-  }).addTo(map);
+
+    popupContent += `</div>`;
+    layer.bindPopup(popupContent);
+
+    // Table row generation
+    let row = "";
+    if (selected === "industri") {
+      row = `<tr><td>${p.Desa}</td><td>${p.kecamatan}</td><td>${p.kabupaten}</td><td>${p.jml_industri}</td><td>${p.Industri}</td><td>${p.klas_industri}</td></tr>`;
+    } else if (selected === "penduduk") {
+      row = `<tr><td>${p.Desa}</td><td>${p.kecamatan}</td><td>${p.kabupaten}</td><td>${p.jml_penduduk}</td><td>${p.Penduduk}</td><td>${p.klas_penduduk}</td></tr>`;
+    } else if (selected === "transportasi") {
+      row = `<tr><td>${p.Desa}</td><td>${p.kecamatan}</td><td>${p.kabupaten}</td><td>${p.klas_transportasi}</td></tr>`;
+    } else if (selected === "pusat") {
+      row = `<tr><td>${p.Desa}</td><td>${p.kecamatan}</td><td>${p.kabupaten}</td><td>${p.klas_pusat}</td></tr>`;
+    } else if (selected === "weighted") {
+      row = `<tr><td>${p.DESA}</td><td>${p.KAB_KOTA}</td><td>${p.KECAMATAN}</td><td>${p.ket_klas}</td></tr>`;
+    }
+    document.getElementById("table-body").innerHTML += row;
+  }
+}).addTo(map);
+
 
   setTimeout(() => {
     const dt = $('#data-table').DataTable({
@@ -185,12 +197,6 @@ fetch("data/FIX.geojson").then(res => res.json()).then(data => {
   weightedBox.innerHTML = `<div class="stat-icon">🧲</div><div class="stat-content"><div class="stat-count">Overlay</div><div>Hasil Akhir</div></div>`;
   weightedBox.onclick = () => applyFilter("weighted");
   document.querySelector(".stat-wrapper").appendChild(weightedBox);
-  const inputBox = document.createElement("div");
-inputBox.className = "stat-box";
-inputBox.innerHTML = `<div class="stat-icon">📥</div><div class="stat-content"><div class="stat-count">Input</div><div>Input Data</div></div>`;
-inputBox.onclick = () => window.location.href = "input.php";
-document.querySelector(".stat-wrapper").appendChild(inputBox);
-
   applyFilter("weighted");
 });
 
