@@ -39,6 +39,36 @@ include_once "header.php";
   .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.8; border: 1px solid #999; }
   .legend-items { display: none; margin-top: 6px; }
   .legend-items.open { display: block; }
+  .table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+@media (max-width: 768px) {
+  .table-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  #data-table {
+    display: block;
+    min-width: 600px;
+  }
+
+  .filter-export-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .stat-wrapper {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .stat-box {
+    justify-content: flex-start;
+  }
+}
 </style>
 
 <div class="row">
@@ -65,10 +95,14 @@ include_once "header.php";
           <div class="buttons-container" id="export-buttons"></div>
         </div>
 
-        <table id="data-table">
-          <thead><tr></tr></thead>
-          <tbody id="table-body"></tbody>
-        </table>
+
+      <div class="table-container">
+       <table id="data-table">
+      <thead><tr></tr></thead>
+       <tbody id="table-body"></tbody>
+     </table>
+    </div>
+
 
 <script>
 const map = L.map('map').setView([-7.8, 110.4], 10);
