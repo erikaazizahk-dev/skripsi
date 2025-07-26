@@ -46,11 +46,13 @@
       <li style="margin: 0 15px;">
         <a href="peta.php"><i class="fa fa-user"></i> Peta Sentra Industri Kreatif</a>
       </li>
+      <li style="margin: 0 15px;">
+        <a href="peta3.php"><i class="fa fa-user"></i> Peta Konsentrasi Industri Kreatif</a>
+      </li>
     </ul>
-
     <!-- Copyright -->
     <p style="font-size: 13px; color: #eee; margin-top: 10px;">
-      &copy; <?php echo date("Y"); ?> Pemerintah Provinsi Daerah Istimewa Yogyakarta. All rights reserved.
+      &copy; <?php echo date("Y"); ?> Provinsi Daerah Istimewa Yogyakarta. All rights reserved.
     </p>
   </div>
 </footer>
