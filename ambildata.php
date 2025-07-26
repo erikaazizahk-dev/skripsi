@@ -1,7 +1,7 @@
 <?php
 include "koneksi.php";
 
-// Query gabungan dari dua tabel: data__fix_1 dan data__fix_2
+// Query gabungan dari dua tabel: data_fix_1 dan data_fix_2
 $query = "
     (SELECT * FROM data_fix_1)
     UNION ALL
