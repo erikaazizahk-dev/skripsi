@@ -12,39 +12,41 @@
   <link href="css/style.css" rel="stylesheet">
   <link href="css/datatable-bootstrap.css" rel="stylesheet">
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
   <!-- Custom Style -->
   <style>
-     body {
+  body {
     background-color: #f9f9f9;
     margin: 0;
     padding: 0;
   }
-    .navbar-utama {
-      background-color: rgba(103, 150, 177, 0.8) !important;
-      border: none;
-    }
 
-    .navbar-utama .navbar-nav {
-      display: flex;
-      justify-content: center;
-      flex-wrap: nowrap;
-      overflow-x: auto;
-    }
+  .navbar-utama {
+    background-color: rgba(103, 150, 177, 0.8) !important;
+    border: none;
+  }
 
-    .navbar-utama .nav > li > a {
-      color: #ffffff !important;
-      font-weight: bold;
-      white-space: nowrap;
-      padding-left: 20px;
-      padding-right: 20px;
-    }
+  .navbar-utama .navbar-nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
 
-    .navbar-utama .nav > li > a:hover {
-      background-color: rgba(103, 150, 177, 1) !important;
-    }
+  .navbar-utama .nav > li > a {
+    color: #ffffff !important;
+    font-weight: bold;
+    white-space: nowrap;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 
-   .judul-head {
+  .navbar-utama .nav > li > a:hover {
+    background-color: rgba(103, 150, 177, 1) !important;
+  }
+
+  .judul-head {
     font-family: 'Poppins', sans-serif;
     font-size: 30px;
     font-weight: 700;
@@ -59,6 +61,39 @@
     text-align: center;
     margin-bottom: 20px;
   }
+
+  @media (max-width: 768px) {
+    .navbar-collapse {
+      width: 100% !important;
+      background-color: #6c9bbd;
+      display: flex !important;
+      flex-direction: column;
+    }
+
+    .navbar-nav {
+      flex-direction: column !important;
+      width: 100%;
+    }
+
+    .navbar-nav > li {
+      width: 100%;
+    }
+
+    .navbar-nav > li > a {
+      display: block;
+      width: 100%;
+      padding: 15px 20px;
+      text-align: left;
+      white-space: normal;
+      font-size: 16px;
+    }
+
+    .navbar-toggle {
+      float: right;
+      margin-right: 10px;
+    }
+  }
+
   </style>
 </head>
 
@@ -76,15 +111,16 @@
   <div class="container margin-b70">
     <nav class="navbar navbar-default navbar-utama" role="navigation">
       <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-          <span class="sr-only">Navigasi</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+       <span class="icon-bar"></span>
+       <span class="icon-bar"></span>
         </button>
+
       </div>
 
-      <div class="collapse navbar-collapse navbar-ex1-collapse">
+      <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
           <li><a href="index.php"><i class="fa fa-home"></i> Beranda</a></li>
           <li><a href="data.php"><i class="fa fa-list-ul"></i> Data Industri Kreatif</a></li>
