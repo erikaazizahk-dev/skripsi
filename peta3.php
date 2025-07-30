@@ -219,11 +219,6 @@ fetch("data/FIX.geojson").then(res => res.json()).then(data => {
   weightedBox.innerHTML = `<div class="stat-icon">🧲</div><div class="stat-content"><div class="stat-count">Overlay</div><div>Hasil Akhir</div></div>`;
   weightedBox.onclick = () => applyFilter("weighted");
   document.querySelector(".stat-wrapper").appendChild(weightedBox);
-  const inputBox = document.createElement("div");
-inputBox.className = "stat-box";
-inputBox.innerHTML = `<div class="stat-icon">📥</div><div class="stat-content"><div class="stat-count">Input</div><div>Input Data</div></div>`;
-inputBox.onclick = () => window.location.href = "input.php";
-document.querySelector(".stat-wrapper").appendChild(inputBox);
 
   applyFilter("weighted");
 });
