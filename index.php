@@ -119,15 +119,15 @@ include_once "header.php";
   <div class="col-md-12">
     <div class="panel panel-info panel-dashboard">
       <div class="panel-heading text-center">
-        <h3 class="panel-title"><strong>- Diagram Jumlah Pelaku per Subsektor -</strong></h3>
+        <h3 class="panel-title"><strong>- Jumlah Industri Kreatif Berdasarkan Subsektor -</strong></h3>
       </div>
       <div class="panel-body">
         <div class="text-end mb-2">
           <label for="filterSubsektor">🎯 Filter:</label>
           <select id="filterSubsektor" onchange="updateChartSubsektor()">
             <option value="all">🔁 Semua</option>
-            <option value="max">⬇️ Terbesar</option>
-            <option value="min">⬆️ Terkecil</option>
+            <option value="max">⬇️ Terbanyak</option>
+            <option value="min">⬆️ Tersedikit</option>
           </select>
         </div>
         <div style="height: 400px;">
@@ -143,7 +143,7 @@ include_once "header.php";
   <div class="col-md-12">
     <div class="panel panel-info panel-dashboard">
       <div class="panel-heading text-center">
-        <h3 class="panel-title"><strong>- Diagram Pelaku Industri Kreatif per Kabupaten/Kota -</strong></h3>
+        <h3 class="panel-title"><strong>- Jumlah Industri Kreatif Berdasarkan Kabupaten/Kota -</strong></h3>
       </div>
       <div class="panel-body">
         <div class="text-end mb-2">
@@ -173,7 +173,7 @@ include_once "header.php";
         <div class="row row-subsektor container-subsektor">
           <?php
          $subsektors = [
-    ["Aplikasi", "img/Aplikasi.png", "Subsektor aplikasi mencakup pengembangan aplikasi website, pengolahan data, jasa cloud computing, jasa domain dan hosting", 203],
+    ["Aplikasi", "img/Aplikasi.png", "Subsektor aplikasi mencakup pengembangan aplikasi website, pengolahan data, jasa cloud computing, jasa domain dan hosting", 208],
     ["Fashion", "img/Fashion.png", "Subsektor fashion mencakup butik, perancang busana, fashion tradisional seperti kebaya, butik, perancang busana, fashion tradisional", 374],
     ["Kriya", "img/Kriya.png", "Subsektor Kriya mencakup kerajinan tekstil, kerajinan kayu dan bambu, kerajinan logam dan perak, kerajinan gerabah dan kerajinan lainnya.", 670],
     ["Media", "img/Media.png", "Subsektor media mencakup produksi film, animasi, jasa dan produksi video (video komersil, iklan,dokumentasi), stasiun televisi dan radio.", 262],
@@ -225,7 +225,7 @@ include_once "header.php";
     data: {
       labels: [...dataSubsektor.labels],
       datasets: [{
-        label: 'Jumlah Pelaku',
+        label: 'Jumlah Industri',
         data: [...dataSubsektor.values],
         backgroundColor: 'rgba(52, 152, 219, 0.7)',
         borderColor: 'rgba(41, 128, 185, 1)',
@@ -242,7 +242,7 @@ include_once "header.php";
         tooltip: {
           callbacks: {
             label: function(context) {
-              return context.parsed.x + ' pelaku';
+              return context.parsed.x + 'Industri';
             }
           }
         }
@@ -269,7 +269,7 @@ include_once "header.php";
 
   const dataKabupaten = {
     labels: ['Sleman', 'Kota Yogyakarta', 'Bantul', 'Kulon Progo', 'Gunungkidul'],
-    values: [1352, 1012, 978, 857, 869]
+    values: [1577, 1033, 1449, 324, 281]
   };
 
   const ctxKab = document.getElementById('barChartKabupaten').getContext('2d');
@@ -278,7 +278,7 @@ include_once "header.php";
     data: {
       labels: [...dataKabupaten.labels],
       datasets: [{
-        label: 'Jumlah Pelaku',
+        label: 'Jumlah Industri',
         data: [...dataKabupaten.values],
         backgroundColor: 'rgba(52, 152, 219, 0.7)',
         borderColor: 'rgba(52, 152, 219, 0.7)',
@@ -295,7 +295,7 @@ include_once "header.php";
         tooltip: {
           callbacks: {
             label: function(context) {
-              return context.parsed.x + ' pelaku';
+              return context.parsed.x + ' Industri';
             }
           }
         }

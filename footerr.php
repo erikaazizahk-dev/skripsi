@@ -52,7 +52,7 @@
     </ul>
     <!-- Copyright -->
     <p style="font-size: 13px; color: #eee; margin-top: 10px;">
-      &copy; <?php echo date("Y"); ?> Provinsi Daerah Istimewa Yogyakarta. All rights reserved.
+      &copy; <?php echo date("Y"); ?> Provinsi Daerah Istimewa Yogyakarta.
     </p>
   </div>
 </footer>
