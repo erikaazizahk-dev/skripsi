@@ -179,7 +179,7 @@ include_once "header.php";
     ["Media", "img/Media.png", "Subsektor media mencakup produksi film, animasi, jasa dan produksi video (video komersil, iklan,dokumentasi), stasiun televisi dan radio.", 262],
     ["Arsitektur", "img/Arsitektur.png", "Subsektor arsitektur mencakup jasa desain arsitektural, perancangan bangunan gedung dan tata bangunan.", 147],
     ["Musik", "img/Musik.png", "Subsektor musik mencakup produksi dan distribusi rekaman seperti studio rekaman, penciptaan musik", 229],
-    ["Desain", "img/Desain.png", "Subsektor desain mencakup jasa desain produk, desain interior dan desain komunikasi visual.", 117],
+    ["Desain", "img/Desain.png", "Subsektor desain mencakup jasa desain produk, desain interior dan desain komunikasi visual.", 118],
     ["Kuliner", "img/Kuliner.png", "Subsektor kuliner mencakup kuliner tradisional seperti bakpia, produk olahan dan kemasan.", 1484],
     ["Penerbitan", "img/Penerbitan.png", "Subsektor penerbitan mencakup penerbitan buku, majalah, media cetak", 164],
     ["Periklanan", "img/Periklanan.png", "Subsektor periklanan mencakup agensi iklan, desain kampanye, media promosi", 176],
@@ -216,7 +216,7 @@ include_once "header.php";
 <script>
   const dataSubsektor = {
     labels: ['Aplikasi', 'Arsitektur', 'Desain', 'Fashion', 'Fotografi', 'Kriya', 'Kuliner', 'Media', 'Musik', 'Penerbitan', 'Periklanan', 'Seni Pertunjukan', 'Seni Rupa'],
-    values: [203, 147, 117, 374, 419, 670, 1484, 262, 229, 164, 176, 110, 303]
+    values: [208, 147, 118, 374, 419, 670, 1484, 262, 229, 164, 176, 110, 303]
   };
 
   const ctxSub = document.getElementById('barChartSubsektor').getContext('2d');
