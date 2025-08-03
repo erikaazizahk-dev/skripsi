@@ -438,7 +438,7 @@ include_once "header.php";
 
               applyFilter('all');
             });
-/*
+
  let barChartInstance;
 function updateBarChart(data, filter = "all") {
   const sortOrder = document.getElementById("sort-order").value;
@@ -497,7 +497,6 @@ document.getElementById("sort-order").addEventListener("change", () => {
   const active = document.querySelector(".stat-box.active")?.getAttribute("data-filter") || "all";
   updateBarChart(rawData, active);
 });
-/*
 
         </script>
 

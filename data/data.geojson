@@ -4664,6 +4664,105 @@
 { "type": "Feature", "properties": { "id_industri": 4659, "link": "https://www.google.com/maps/place/Wulan+Ramadhanti+Studio/data=!4m7!3m6!1s0x2e7afd1e71b3485f:0x43c156f618ae62c2!8m2!3d-7.9406577!4d110.2277733!16s%2Fg%2F11jh49kts6!19sChIJX0izcR79ei4RwmKuGPZWwUM?authuser=0&hl=en&rclk=1", "nama_industri": "Wulan Ramadhanti Studio", "subsektor": "Seni Rupa", "alamat_industri": "Unnamed Road, Bantengan Lor, Brosot, Galur, Kulon Progo Regency, Special Region of Yogyakarta 55661", "count_review": 11.0, "count_rating": 4.9, "latitude": -7.940658, "longitude": 110.227773, "kabupaten": "Kulon Progo" }, "geometry": { "type": "Point", "coordinates": [ 110.227773, -7.940658 ] } },
 { "type": "Feature", "properties": { "id_industri": 4660, "link": "https://www.google.com/maps/place/Yogya+Art+Lab/data=!4m7!3m6!1s0x2e7a57c44496b543:0xb0af938b175e14b!8m2!3d-7.8242252!4d110.346682!16s%2Fg%2F11cn9tzhf3!19sChIJQ7WWRMRXei4RS-F1sTj5Cgs?authuser=0&hl=en&rclk=1", "nama_industri": "Yogya Art Lab", "subsektor": "Seni Rupa", "alamat_industri": "Jl. Keloran No.Rt 004, Senggotan, Tirtonirmolo, Kasihan, Bantul Regency, Special Region of Yogyakarta 55184", "count_review": 14.0, "count_rating": 4.8, "latitude": -7.824225, "longitude": 110.346682, "kabupaten": "Bantul" }, "geometry": { "type": "Point", "coordinates": [ 110.346682, -7.824225 ] } },
 { "type": "Feature", "properties": { "id_industri": 4661, "link": "https://www.google.com/maps/place/yogyakarta+painting+gallery/data=!4m7!3m6!1s0x2e7a57a60a4d4cd3:0xb8b5227b6e945deb!8m2!3d-7.82636!4d110.3720004!16s%2Fg%2F12vqlnjls!19sChIJ00xNCqZXei4R612Ubnsitbg?authuser=0&hl=en&rclk=1", "nama_industri": "yogyakarta painting gallery", "subsektor": "Seni Rupa", "alamat_industri": "salakan jotawang rt 7 rw 3 banguharjo sewon bantul, yogyakarta, bantul, Salakan, Bangunharjo, Kec. Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55178", "count_review": 6.0, "count_rating": 4.0, "latitude": -7.82636, "longitude": 110.372, "kabupaten": "Kota Yogyakarta" }, "geometry": { "type": "Point", "coordinates": [ 110.372, -7.82636 ] } },
-{ "type": "Feature", "properties": { "id_industri": 4662, "link": "https://www.google.com/maps/place/Zola+Gallery/data=!4m7!3m6!1s0x2e7a5631e7d45187:0xb6284ef5461b2d09!8m2!3d-7.8445821!4d110.3433099!16s%2Fg%2F11c3k6hpjc!19sChIJh1HU5zFWei4RCS0bRvVOKLY?authuser=0&hl=en&rclk=1", "nama_industri": "Zola Gallery", "subsektor": "Seni Rupa", "alamat_industri": "Jl. Mrisi No.7, Nyemengan, Tirtonirmolo, Kasihan, Bantul Regency, Special Region of Yogyakarta 55184", "count_review": 30.0, "count_rating": 4.7, "latitude": -7.844582, "longitude": 110.34331, "kabupaten": "Bantul" }, "geometry": { "type": "Point", "coordinates": [ 110.34331, -7.844582 ] } }
+{ "type": "Feature", "properties": { "id_industri": 4662, "link": "https://www.google.com/maps/place/Zola+Gallery/data=!4m7!3m6!1s0x2e7a5631e7d45187:0xb6284ef5461b2d09!8m2!3d-7.8445821!4d110.3433099!16s%2Fg%2F11c3k6hpjc!19sChIJh1HU5zFWei4RCS0bRvVOKLY?authuser=0&hl=en&rclk=1", "nama_industri": "Zola Gallery", "subsektor": "Seni Rupa", "alamat_industri": "Jl. Mrisi No.7, Nyemengan, Tirtonirmolo, Kasihan, Bantul Regency, Special Region of Yogyakarta 55184", "count_review": 30.0, "count_rating": 4.7, "latitude": -7.844582, "longitude": 110.34331, "kabupaten": "Bantul" }, "geometry": { "type": "Point", "coordinates": [ 110.34331, -7.844582 ] } },
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "id_industri": 1,
+      "link": "https://www.google.com/maps/place/CV.+Software+Teknologi+%28SOFTEK%29/data=!4m7!3m6!1s0x2e7bb340e293a895:0x5c7963eff38ec05d!8m2!3d-7.966412!4d110.595954!16s%2Fg%2F11c2j91t9j!19sChIJlaiT4kCzey4RXcCO8-9jeVw?authuser=0&hl=en&rclk=1",
+      "nama_industri": "CV. Software Teknologi (SOFTEK)",
+      "subsektor": "Aplikasi",
+      "alamat_industri": "Tegalmulyo, 002/005, Kepek, Wonosari, Tegalmulyo, Kepek, Kec. Wonosari, Kabupaten Gunungkidul, Daerah Istimewa Yogyakarta 55813",
+      "count_review": 5,
+      "count_rating": 5.0,
+      "latitude": -7.966412,
+      "longitude": 110.595954,
+      "kabupaten": "Gunungkidul"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.595954, -7.966412]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id_industri": 2,
+      "link": "https://www.google.com/maps/place/Jasa+Bikin+Website+Gunungkidul/@0,0,15z/data=!4m6!3m5!1s0x2e7bad86a4d60a25:0x951d16a76d58cfd9!8m2!3d-8.0312267!4d110.466814!16s%2Fg%2F11n5h74qf1?hl=en&entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D",
+      "nama_industri": "Jasa Bikin Website Gunungkidul",
+      "subsektor": "Aplikasi",
+      "alamat_industri": "XF98+GP4 Jasa Bikin Website Gunungkidul, Blimbing, Girisekar, Kec. Panggang, Kabupaten Gunungkidul, Daerah Istimewa Yogyakarta 55872",
+      "count_review": 4.5,
+      "count_rating": 4.5,
+      "latitude": -8.031227,
+      "longitude": 110.466814,
+      "kabupaten": "Gunungkidul"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.466814, -8.031227]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id_industri": 3,
+      "link": "https://www.google.com/maps/place/PT.+Wardana+Website+Pintar+Indonesia/data=!4m7!3m6!1s0x2e7bc9def84a4823:0xb15b5b966c02c21f!8m2!3d-8.0858101!4d110.7489851!16s%2Fg%2F11jcb8l2fj!19sChIJI0hK-N7Jey4RH8ICbJZbW7E?authuser=0&hl=en&rclk=1",
+      "nama_industri": "PT. Wardana Website Pintar Indonesia",
+      "subsektor": "Aplikasi",
+      "alamat_industri": "Tirisan B, Pringombo, Kec. Rongkop, Kabupaten Gunungkidul, Daerah Istimewa Yogyakarta 55883",
+      "count_review": 5,
+      "count_rating": 5.0,
+      "latitude": -8.08581,
+      "longitude": 110.748985,
+      "kabupaten": "Gunungkidul"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.748985, -8.08581]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id_industri": 4,
+      "link": "https://www.google.com/maps/place/Wahyu+Febriyana+Web+Developer/data=!4m7!3m6!1s0x2e7a5181807ef797:0x67475015e3ed9aaf!8m2!3d-7.8479097!4d110.4830315!16s%2Fg%2F11g4j6n3f6!19sChIJl_d-gIFRei4Rr5rt4xVQR2c?authuser=0&hl=en&rclk=1",
+      "nama_industri": "Wahyu Febriyana Web Developer",
+      "subsektor": "Aplikasi",
+      "alamat_industri": "Patuk, RT05 RW01, Patuk, Kec. Patuk, Kabupaten Gunungkidul, Daerah Istimewa Yogyakarta 55862",
+      "count_review": 5,
+      "count_rating": 5.0,
+      "latitude": -7.84791,
+      "longitude": 110.483031,
+      "kabupaten": "Gunungkidul"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.483031, -7.84791]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id_industri": 5,
+      "link": "https://www.google.com/maps/place/YudiJali+Website+Developer+and+Technology/data=!4m7!3m6!1s0x2e7bb31a3d827b0f:0x1e5960cdc672c45b!8m2!3d-7.975945!4d110.6104192!16s%2Fg%2F11fty7r3j7!19sChIJD3uCPRqzey4RW8Ryxs1gWR4?authuser=0&hl=en&rclk=1",
+      "nama_industri": "YudiJali Website Developer and Technology",
+      "subsektor": "Aplikasi",
+      "alamat_industri": "Mulyosari NO. 108, RT.02/RW.02, Baleharjo, Kec. Wonosari, Kabupaten Gunungkidul, Daerah Istimewa Yogyakarta 55811",
+      "count_review": 5,
+      "count_rating": 5.0,
+      "latitude": -7.975945,
+      "longitude": 110.610419,
+      "kabupaten": "Gunungkidul"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [110.610419, -7.975945]
+    }
+  }
+]
+
+
 ]
 }
