@@ -438,7 +438,6 @@ include_once "header.php";
 
               applyFilter('all');
             });
-
  let barChartInstance;
 function updateBarChart(data, filter = "all") {
   const sortOrder = document.getElementById("sort-order").value;
@@ -502,6 +501,26 @@ document.getElementById("sort-order").addEventListener("change", () => {
 
     </div>
 </div>
+
+      <!-- Bar Chart & Stat Panel -->
+<div class="panel panel-info panel-dashboard">
+  <div class="panel-heading">
+    <h3 class="panel-title text-center"><strong>- Distribusi Sentra per Kabupaten -</strong></h3>
+  </div>
+  <div class="panel-body">
+    <!-- Filter Dropdown -->
+    <div class="custom-filter-box" style="margin-bottom: 20px; text-align: center;">
+      <label for="sort-order" class="filter-label" style="margin-right: 10px; font-weight: bold;">🎯 Urutkan:</label>
+      <select id="sort-order" class="custom-select" style="padding: 6px 12px; border-radius: 5px; border: 1px solid #ccc;">
+        <option value="desc">⬇️ Terbesar</option>
+        <option value="asc">⬆️ Terkecil</option>
+      </select>
+    </div>
+
+    <!-- Bar Chart -->
+    <div style="overflow-x: auto;">
+      <canvas id="bar-chart" height="70"></canvas>
+    </div>
 
 </div> <!-- penutup col-md-9 -->
 </div> <!-- penutup container-fluid -->
